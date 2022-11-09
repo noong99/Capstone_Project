@@ -7,7 +7,7 @@
 ▶my_model: teachable machine 이용한 학습 모델(41개 종 95~130개 이미지)<br>
   - teachable machine_zip파일 압축 해제한 파일<br>
   - 3개 파일 존재(metadata.json, model.json, weights.bin)<br>
-<br>
+<hr>
 ▶project.tm: teachable machine에 벌레 이미지들을 넣은 프로젝트(my_model의 기반)_용량 커서 업로드x<br>
 ▶벌레: 구글 드라이브-벌레 다운로드(41개종 95~130개 이미지)_용량 커서 업로드x<br>
 ▶땃쥐.jpeg: 모델을 돌려보기 위한 랜덤이미지 <br>
