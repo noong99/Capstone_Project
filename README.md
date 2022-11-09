@@ -7,8 +7,8 @@
   - teachable machine_zip파일 압축 해제한 파일<br>
   - 3개 파일 존재(metadata.json, model.json, weights.bin)<br>
 <br>
-▶project.tm: teachable machine에 벌레 이미지들을 넣은 프로젝트(my_model의 기반)<br>
-▶벌레: 구글 드라이브-벌레 다운로드(41개종 95~130개 이미지)<br>
+▶project.tm: teachable machine에 벌레 이미지들을 넣은 프로젝트(my_model의 기반)_용량 커서 업로드x<br>
+▶벌레: 구글 드라이브-벌레 다운로드(41개종 95~130개 이미지)_용량 커서 업로드x<br>
 ▶땃쥐.jpeg: 모델을 돌려보기 위한 랜덤이미지 <br>
   -<b>(땃쥐 사진-> 가장 높은 확률:시궁쥐로 나와서 분류모델 개선 필요성) </b><br>
 ▶tm_mymodel_webcam: 웹에서 카메라로 사진을 찍었을 때 벌레 종류의 결과 도출<br>
