@@ -16,7 +16,6 @@
 
 
 <h5>업로드 파일 설명(2022.11.10)</h5>
-<a href="https://www.youtube.com/watch?v=L2UeBBbQFx4">참고한 유튜브<a><br>
 <h6>모델 설명(실질적인 부분)</h6>
 ▶ model_대분류_tflite: 대분류 google teachable machine 모델 tflite 파일 <br>
 ▶ model_소분류_tflite: 소분류 google teachable machine 모델 tflite 파일 <br>
