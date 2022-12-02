@@ -1,6 +1,6 @@
 # graduateproject
 <h2>졸업프로젝트_BugWiki</h2>
-<h5>업로드 파일 설명(2022.11.10)</h5>
+<h5>업로드 파일 설명(2022.12.03)</h5>
 
 ▶ MainActivity : 카메라/갤러리+이미지 분류 결과 <br>
 ▶ HomeActivity : main 페이지<br>
