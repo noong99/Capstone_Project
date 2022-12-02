@@ -31,5 +31,18 @@ public class HomeActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        
+        ///////////이부분부터//////////
+        // 메인페이지-내주변 방역업체 페이지 연결
+        Button mapButton = (Button) findViewById(R.id.button4);
+        mapButton.setOnClickListener(new View.OnClickListener(){
+
+            @Override
+            public void onClick(View view){
+                Intent intent = new Intent(getApplicationContext(),MapsActivity.class);
+                startActivity(intent);
+            }
+        });
+        ///////////여기까지 추가됨//////////
     }
 }
