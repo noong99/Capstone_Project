@@ -21,7 +21,7 @@ public class HomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_home);
         
         
-        // 메인페이지-이미지 전환위해 추가한 부분
+        // 메인페이지-이미지 전환 위해 추가한 부분
         Button imageButton = (Button) findViewById(R.id.button);
         imageButton.setOnClickListener(new View.OnClickListener(){
 
