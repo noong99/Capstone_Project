@@ -16,7 +16,7 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="Search Bug"
+        android:label="Bug Wiki"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
@@ -59,7 +59,7 @@
         <activity
             android:name=".MapsActivity"
             android:exported="true"
-            android:label="MapsActivity">
+            android:label="주변 방역업체">
 <!--            <intent-filter>-->
 <!--                <action android:name="android.intent.action.MAIN" />-->
 
