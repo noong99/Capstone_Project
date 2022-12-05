@@ -26,17 +26,14 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 
-//    val permissions = arrayOf(Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION)
-//    val PERM_FLAG = 99
+
 
 
     private lateinit var mMap: GoogleMap
-//    private lateinit var binding: ActivityMapsBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-//        binding = ActivityMapsBinding.inflate(layoutInflater)
         setContentView(R.layout.activity_maps)
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
         val mapFragment = supportFragmentManager
@@ -44,59 +41,12 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 
         mapFragment.getMapAsync(this)
 
-//        if (isPermitted()) {
-//            startProcess()
-//        } else {
-//            ActivityCompat.requestPermissions(this, permissions, PERM_FLAG)
-//        }
-
     }
 
-//    fun isPermitted() : Boolean {
-//        for (perm in permissions) {
-//           if ( ContextCompat.checkSelfPermission(this, perm) != PackageManager.PERMISSION_GRANTED) {
-//               return false
-//           }
-//        }
-//        return true
-//    }
-
-//    fun startProcess() {
-//        // Obtain the SupportMapFragment and get notified when the map is ready to be used.
-//        val mapFragment = supportFragmentManager
-//            .findFragmentById(R.id.map) as SupportMapFragment
-//
-//        mapFragment.getMapAsync(this)
-//    }
-
-    /**
-     * Manipulates the map once available.
-     * This callback is triggered when the map is ready to be used.
-     * This is where we can add markers or lines, add listeners or move the camera. In this case,
-     * we just add a marker near Sydney, Australia.
-     * If Google Play services is not installed on the device, the user will be prompted to install
-     * it inside the SupportMapFragment. This method will only be triggered once the user has
-     * installed Google Play services and returned to the app.
-     */
     override fun onMapReady(googleMap: GoogleMap) {
         mMap = googleMap
 
         loadLibraries()
-
-        // Add a marker in Sydney and move the camera
-//        val seoul = LatLng(37.5663, 126.9779)
-//        // 마커
-//        val marker = MarkerOptions()
-//            .position(seoul)
-//            .title("Marker in Seoul")
-//        mMap.addMarker(marker)
-//        // 카메라의 위치
-//        val cameraOption = CameraPosition.Builder()
-//            .target(seoul)
-//            .zoom(17f)
-//            .build()
-//        val camera = CameraUpdateFactory.newCameraPosition(cameraOption)
-//        mMap.moveCamera(camera)
     }
 
     fun loadLibraries() {
@@ -142,29 +92,5 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         }
 
     }
-
-//    override fun onRequestPermissionsResult(
-//        requestCode: Int,
-//        permissions: Array<out String>,
-//        grantResults: IntArray
-//    ) {
-//        when(requestCode) {
-//            PERM_FLAG -> {
-//                var check = true
-//                for (grant in grantResults) {
-//                    if(grant != PackageManager.PERMISSION_GRANTED) {
-//                        check = false
-//                        break
-//                    }
-//                }
-//                if(check) {
-//                    startProcess()
-//                } else {
-//                    Toast.makeText(this, "권한을 승인해야지만 앱을 사용할 수 있습니다", Toast.LENGTH_LONG).show()
-//                    finish()
-//                }
-//            }
-//        }
-//    }
 
 }
