@@ -1,9 +1,11 @@
 package com.example.bug_1128
 
 import android.Manifest
+import android.annotation.SuppressLint // 추가됨
 import android.content.pm.PackageManager
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Looper // 추가됨
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
@@ -13,11 +15,9 @@ import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.SupportMapFragment
-import com.google.android.gms.maps.model.LatLng
-import com.google.android.gms.maps.model.MarkerOptions
+import com.google.android.gms.location.* //추가됨
+import com.google.android.gms.maps.model.* //수정 및 추가됨
 import com.example.bug_1128.databinding.ActivityMapsBinding
-import com.google.android.gms.maps.model.CameraPosition
-import com.google.android.gms.maps.model.LatLngBounds
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
@@ -25,9 +25,8 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
-
-
-
+    val permissions = arrayOf(Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION)
+    val PERM_FLAG = 99
 
     private lateinit var mMap: GoogleMap
 
