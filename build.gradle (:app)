@@ -82,6 +82,16 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:1.7.20"
     implementation 'com.google.android.gms:play-services-location:17.0.0' //위치정보 //버전 수정됨
     implementation 'com.google.maps.android:android-maps-utils:2.4.0'
+
+    // 리사이클러 뷰 위해 새로 추가
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    // 이미지 로딩
+    implementation 'com.github.bumptech.glide:glide:4.10.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.10.0'
+
+    // 파이어베이스
+    implementation 'com.google.firebase:firebase-database:20.0.4'
+
 }
 
 
