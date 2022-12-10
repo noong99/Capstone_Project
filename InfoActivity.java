@@ -43,13 +43,23 @@ public class InfoActivity extends AppCompatActivity {
             public void onDataChange(@NonNull DataSnapshot snapshot) {
                 // 파이어베이스 데이터베이스의 데이터를 받아오는 곳
                 arrayList.clear(); // 기존 배열리스트가 존재하지 않게 초기화
-
+                for (DataSnapshot snapshot : dataSnapshot.getChildren()) {
+                    Bug bug = snapshot.getValue(Bug.class); // 만들어뒀던 Bug 객체에 데이터를 담는다
+                    arrayList.add(bug); // 담은 데이터들을 배열리스트에 넣고 리사이클러뷰로 보낼 준비
+                    //////////////이쯤에 if문..?//////////////
+                }
+                adapter.notifyDataSetChanged(); // 리스트 저장 및 새로고침
             }
 
             @Override
-            public void onCancelled(@NonNull DatabaseError error) {
-
+            public void onCancelled(@NonNull DatabaseError databaseError) {
+                //DB를 가져오던 중 에러 발생 시
+                Log.e("InfoActivity", String.valueOf(databaseError.toException())); //에러문 출력
             }
         });
+        
+        adapter = new CustomAdapter(arrayList, this);
+        recyclerView.setAdapter(adapter); // 리사이클러뷰에 어댑터 연결
+
     }
 }
