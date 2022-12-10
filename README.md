@@ -12,8 +12,9 @@
 
 ▶ AndroidManifest.xml : 페이지 만들 때마다 여기에 추가(indent-filter는 main 페이지에만<br>
 
-
-
+(2022.12.10)<br>
+▶ Bug.java, CustomAdapter.java, InfoActivity.java, activity_info.xml, list_item.xml: 정보 제공 관련<br>
+  build.gradle(app)부분도 수정완료 
 
 <h6>모델 설명</h6>
 ▶ model_대분류_tflite: 대분류 google teachable machine 모델 tflite 파일 <br>
