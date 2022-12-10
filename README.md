@@ -15,8 +15,8 @@
 (2022.12.10)<br>
 ▶ Bug.java, CustomAdapter.java, InfoActivity.java, activity_info.xml, list_item.xml: 정보 제공 관련<br>
   build.gradle(app)부분도 수정완료 
-- 참고 유튜브: https://www.youtube.com/watch?v=HcPWt69d_wY&t=2127s  
-
+- 참고 유튜브: https://www.youtube.com/watch?v=HcPWt69d_wY&t=2127s  <br>
+- 다른 activity에서의 변수 사용 참고 유튜브: https://www.youtube.com/watch?v=M8sKwoVjqU0 https://www.youtube.com/watch?v=Ez1PrPR8VqE <br>
 
 <h6>모델 설명</h6>
 ▶ model_대분류_tflite: 대분류 google teachable machine 모델 tflite 파일 <br>
