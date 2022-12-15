@@ -1,4 +1,4 @@
-package com.example.bug_1128;
+package com.example.BugWiki;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,7 +11,6 @@ import android.media.ThumbnailUtils;
 import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -24,7 +23,7 @@ import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 
-import com.example.bug_1128.ml.Model; //소분류
+import com.example.BugWiki.ml.Model; //소분류
 //import com.example.bug_1128.ml.ModelBig; //대분류
 
 
@@ -34,6 +33,12 @@ public class MainActivity extends AppCompatActivity {
     ImageView imageView;
     TextView result;
     int imageSize = 224;
+    // 12.14 새로 추가
+    Button btn_detail;
+    private static final int REQUEST_CODE = 777;
+    String bug_pred = "곰개미";
+
+    // onAttatch..?
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,6 +50,29 @@ public class MainActivity extends AppCompatActivity {
 
         result = findViewById(R.id.result);
         imageView = findViewById(R.id.imageView);
+
+        // 12.14 새로 추가
+        Intent intent = new Intent(this, InfoActivity.class);
+        intent.putExtra("벌레결과", this.bug_pred); //여기 bug_pred 값이 제대로 전달이 안되는것.. 이 자리에 "곰개미" 이렇게 하면 잘 나옴..
+        //System.out.println("과연"+bug_pred);
+        System.out.println("onCreate에서"+bug_pred);
+
+        btn_detail = findViewById(R.id.btn_detail);
+        btn_detail.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(intent);
+//                startActivityForResult(intent, 101 );
+//                Intent intent = new Intent(getApplicationContext(), InfoActivity.class);
+//                intent.putExtra("벌레결과", bug_pred);
+//                startActivityForResult(intent, 101 );
+//                setResult(RESULT_OK, intent);
+//                finish();
+
+
+            }
+        });
+
 
         camera.setOnClickListener(new View.OnClickListener(){
             @Override
@@ -66,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
 
     public void classifyImage(Bitmap image){
         try {
@@ -117,15 +146,24 @@ public class MainActivity extends AppCompatActivity {
             "바퀴류", "빈대류", "설치류", "좀류", "진딧물류", "집게벌레류", "깔다구류","명나방류", "모기류",
             "파리류"}; //대분류
 
+            // 12/14 새로 추가
+            this.bug_pred = classes[maxPos];
+            System.out.println("Main의 classifyImage에서"+bug_pred);
+
             result.setText(classes[maxPos]); //가장 높은 확률로 예측한것을 result의 text로 display //소분류
             //result.setText(classes2[maxPos]); //대분류
-            
+
+            //12.14 - 새로추가
+            btn_detail.setText("자세히");
+
+
             // Releases model resources if no longer used.
             model.close();
 
         } catch (IOException e) {
             // TODO Handle the exception
         }
+
     }
 
     @Override
