@@ -1,24 +1,104 @@
 package com.example.BugWiki;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 
+public class InfoActivity extends AppCompatActivity {
+
+    private RecyclerView recyclerView;
+    private RecyclerView.Adapter adapter;
+    private RecyclerView.LayoutManager layoutManager;
+    private ArrayList<Bug> arrayList;
+    private FirebaseDatabase database;
+    private DatabaseReference databaseReference;
+
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_info);
+
+        String bug_pred;
+
+        recyclerView = findViewById(R.id.recyclerView); //아이디 연결
+        recyclerView.setHasFixedSize(true); //리사이클러뷰 기존성능 강화
+        layoutManager = new LinearLayoutManager(this);
+        recyclerView.setLayoutManager(layoutManager);
+        arrayList = new ArrayList<>(); //Bug 객체를 담을 arraylist
+
+        database = FirebaseDatabase.getInstance(); //파이어베이스 데이터베이스 연결
+        databaseReference = database.getReference("BugWiki"); //DB 테이블 연결
+
+        Intent secondIntent = getIntent();
+        bug_pred = secondIntent.getStringExtra("벌레결과");
+
+        System.out.println("InfoActivity에서 :"+bug_pred);
+
+        Query myTopPostsQuery = databaseReference.orderByChild("name").equalTo(bug_pred);
+        myTopPostsQuery.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot) {
+                arrayList.clear();
+                for (DataSnapshot dataSnapshot : snapshot.getChildren()) {
+                    Bug arraylistdata = dataSnapshot.getValue(Bug.class);
+                    arrayList.add(arraylistdata);
+                }
+
+                adapter.notifyDataSetChanged();
+
+                //Log.w("InfoActivity", arrayList.toString());
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
+
+        adapter = new CustomAdapter(arrayList, this);
+        recyclerView.setAdapter(adapter); // 리사이클러뷰에 어댑터 연결
+
+    }
+
+//    @Override
+//    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+//        super.onActivityResult(requestCode, resultCode, data);
+////
+////        if(resultCode == RESULT_OK) {
+////            Toast.makeText(getApplicationContext(), "수신 성공", Toast.LENGTH_SHORT).show();
+////            String bug_pred = data.getStringExtra("comeback");
+//////            resultTxt.setText(bug_pred);
+////
+////        } else {
+////            Toast.makeText(getApplicationContext(), "수신 실패", Toast.LENGTH_SHORT).show();
+////        }
+//
+//        Intent secondIntent = getIntent();
+//        String bug_pred = secondIntent.getStringExtra("벌레결과");
+//
+//    }
+}
+
+
+
+/*
 public class InfoActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
@@ -42,6 +122,7 @@ public class InfoActivity extends AppCompatActivity {
         database = FirebaseDatabase.getInstance(); //파이어베이스 데이터베이스 연동
 
         databaseReference = database.getReference("BugWiki"); //DB 테이블 연결
+
         databaseReference.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
@@ -85,3 +166,4 @@ public class InfoActivity extends AppCompatActivity {
 
     }
 }
+*/
