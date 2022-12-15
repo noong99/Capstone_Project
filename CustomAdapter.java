@@ -1,7 +1,6 @@
-package com.example.bug_1128;
+package com.example.BugWiki;
 
 import android.content.Context;
-import android.icu.text.Transliterator;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,7 +8,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.view.menu.MenuView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
@@ -37,10 +35,11 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.CustomView
 
     @Override
     public void onBindViewHolder(@NonNull CustomViewHolder holder, int position) {
+
         Glide.with(holder.itemView)
                 .load(arrayList.get(position).getImage())
                 .into(holder.iv_image);
-        // -> 서버로부터 이미지 받아와서 삽입됨
+         //-> 서버로부터 이미지 받아와서 삽입됨
 
         holder.tv_name.setText(arrayList.get(position).getName()); // arraylist 여러개..
         holder.tv_breed.setText(String.valueOf(arrayList.get(position).getBreed()));
