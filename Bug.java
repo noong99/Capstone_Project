@@ -1,4 +1,4 @@
-package com.example.bug_1128;
+package com.example.BugWiki;
 
 public class Bug {
     private String name;
@@ -11,6 +11,7 @@ public class Bug {
 
     public Bug(){}
 
+
     public String getName() {
         return name;
     }
@@ -19,6 +20,8 @@ public class Bug {
         this.name = name;
     }
 
+
+
     public String getImage() {
         return image;
     }
@@ -26,6 +29,8 @@ public class Bug {
     public void setImage(String image) {
         this.image = image;
     }
+
+
 
     public int getBreed() {
         return breed;
