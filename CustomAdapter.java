@@ -47,6 +47,19 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.CustomView
         holder.tv_harmfulness.setText(String.valueOf(arrayList.get(position).getHarmfulness()));
         holder.tv_disease.setText(arrayList.get(position).getDisease());
         holder.tv_eradication.setText(arrayList.get(position).getEradication());
+        
+        // 12.17 새로추가
+        Glide.with(holder.itemView)
+                .load(arrayList.get(position).getProduct_image())
+                .into(holder.iv_product_image);
+        holder.btn_product_url.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent urlintent = new Intent(Intent.ACTION_VIEW);
+                urlintent.setData(Uri.parse(arrayList.get(holder.getBindingAdapterPosition()).getProduct_url()));
+                context.startActivity(urlintent);
+            }
+        });
 
     }
 
@@ -63,6 +76,11 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.CustomView
         TextView tv_harmfulness;
         TextView tv_disease;
         TextView tv_eradication;
+        
+        // 12.17 새로추가
+        TextView tv_eradication;
+        ImageView iv_product_image;
+        Button btn_product_url;
 
         public CustomViewHolder(@NonNull View itemView) {
             super(itemView);
@@ -73,6 +91,12 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.CustomView
             this.tv_harmfulness = itemView.findViewById(R.id.tv_harmfulness);
             this.tv_disease = itemView.findViewById(R.id.tv_disease);
             this.tv_eradication = itemView.findViewById(R.id.tv_eradication);
+            
+            // 12.17 새로추가
+            this.iv_product_image = itemView.findViewById(R.id.iv_product_image);
+            this.btn_product_url = itemView.findViewById(R.id.btn_product_url);
+            btn_product_url.setPaintFlags(btn_product_url.getPaintFlags()| Paint.UNDERLINE_TEXT_FLAG);
+
         }
     }
 }
