@@ -1,373 +1,375 @@
 {
-  "BugWiki": {
-    "Bug_01": {
-      "breed": 2,
-      "disease": "식중독 알레르기 천식, 비염 ",
-      "eradication": "\"- 청소) 음식이나, 음료를 흘렸을 경우 즉시 치우자. 작은 음식물 부스러기도 개미들을 유인하는 먹이가 된다.  - 차단) 개미가 들어올 수 있는 문이나 창문의 틈을 막자. - 외부) 쓰레기 보관시, 쓰레기는 반드시 밀봉하고 쓰레기통의 뚜껑을 꼭 닫자. - 애완동물이 있는 경우) 애완동물이 바로 먹지 않는 음식은 바로 치우자. - 음식물 보관) 개미가 음식물에 접촉하기 전 어떤 장소에서, 어떤 물질을 묻히고 왔는지 알 수 없기에 음식물을 반드시 밀봉하여 개미가 음식물에 닿지 않도록 하자.\"",
-      "habit": "\"- 열대성 개미이므로 실내에서 생활하며, 실내의 벽이나 천정 틈새, 가구 속, 마루 밑 등 어둡고 따뜻한 곳에서 서식하기를 좋아한다.  - 주로 낮에 활동하나 더운 여름철에는 밤에도 활동한다.  - 식물에 붙으며 피해를 주는 진딧물과 공생관계를 가지기도 한다. \"",
-      "harmfulness": 2,
-      "image": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fq-friend.com%2Fmain%2Fupload%2Fbbs%2Fbuginfo%2Fbuginfo_1599610651.jpg&imgrefurl=https%3A%2F%2Fq-friend.com%2Fmain%2Fboard%2Fbuginfo.html%3F%26category%3D%25EA%25B0%259C%25EB%25AF%25B8%26p%3D1%26query%3Dview%26uid%3D957%26PHPSESSID%3D9518bd9849e7337314fae228deb90b79&tbnid=kQ6OaG6H5TGV0M&vet=12ahUKEwiduML7zeD7AhUZA6YKHTQEDNAQMygLegUIARDWAQ..i&docid=dw9quUbhcgIoVM&w=1400&h=920&q=%EA%B3%B0%EA%B0%9C%EB%AF%B8&ved=2ahUKEwiduML7zeD7AhUZA6YKHTQEDNAQMygLegUIARDWAQ",
-      "name": "곰개미"
-    },
-    "Bug_02": {
-      "breed": 2,
-      "disease": "식중독, 알레르기 천식, 비염, 과민성 질환",
-      "eradication": "\"- 청소) 음식이나, 음료를 흘렸을 경우 즉시 치우자. 작은 음식물 부스러기도 개미들을 유인하는 먹이가 된다.  - 차단) 개미가 들어올 수 있는 문이나 창문의 틈을 막자. - 외부) 쓰레기 보관시, 쓰레기는 반드시 밀봉하고 쓰레기통의 뚜껑을 꼭 닫자. - 애완동물이 있는 경우) 애완동물이 바로 먹지 않는 음식은 바로 치우자. - 음식물 보관) 개미가 음식물에 접촉하기 전 어떤 장소에서, 어떤 물질을 묻히고 왔는지 알 수 없기에 음식물을 반드시 밀봉하여 개미가 음식물에 닿지 않도록 하자.\"",
-      "habit": "\"- 생활환경은 음식물과 물이 있는 따뜻(27~30℃)하고 습도가 높은(80%) 곳을 선호한다. - 잡식성으로 여러가지 먹이를 섭취하나 육식성 개미로 고기를 제일 좋아하고 냄새가 강한 오징어 등의 건어물을 좋아한다. \"",
-      "harmfulness": 3,
-      "image": "https://dbscthumb-phinf.pstatic.net/2765_000_52/20181014210849365_SYOR7P0V4.jpg/268148.jpg?type=m250&wm=N",
-      "name": "애집개미"
-    },
-    "Bug_03": {
-      "breed": 2,
-      "disease": "식중독, 알레르기 천식, 비염, 아토피",
-      "eradication": "\"- 청소) 음식이나, 음료를 흘렸을 경우 즉시 치우자. 작은 음식물 부스러기도 개미들을 유인하는 먹이가 된다.  - 차단) 개미가 들어올 수 있는 문이나 창문의 틈을 막자. - 외부) 쓰레기 보관시, 쓰레기는 반드시 밀봉하고 쓰레기통의 뚜껑을 꼭 닫자. - 애완동물이 있는 경우) 애완동물이 바로 먹지 않는 음식은 바로 치우자. - 음식물 보관) 개미가 음식물에 접촉하기 전 어떤 장소에서, 어떤 물질을 묻히고 왔는지 알 수 없기에 음식물을 반드시 밀봉하여 개미가 음식물에 닿지 않도록 하자. - 장소) 주기적인 환기 및 습도 조절과 개수대, 욕조, 화장실, 화분, 음식물 쓰레기 수분제거로 집안 내부의 환경 개선을 한다.\"",
-      "habit": "\"- 자연계에서 진딧물의 당성분이 많은 배설물을 선호한다. - 가정의 경우 초콜릿, 설탕 등 당 성분을 좋아하며, 액체 상태의 먹이를 선호한다. - 맛이 비슷한 경우 보다 연한 색의 먹이를 선호한다. - 따뜻하고 습한 곳을 좋아하여 봄, 가을철에 물을 찾아 실내로 침입한다.\"",
-      "harmfulness": 3,
-      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDAxMDZfMTQy%2FMDAxNTc4Mjc0ODE4MDA5.lAC-MP3r7HpgulAuU7N3iwVB6yMFdHUHgqqcIBL4NQUg.VJc3StQqZJ0sAfiMAzUl9IXcwoCwn5_eG4T97TI4CxUg.JPEG.kalkom%2F1.jpg&type=a340",
-      "name": "유령개미"
-    },
-    "Bug_04": {
-      "breed": 2,
-      "disease": "없음",
-      "eradication": "\"- 청소) 음식이나, 음료를 흘렸을 경우 즉시 치우자. 작은 음식물 부스러기도 개미들을 유인하는 먹이가 된다.  - 차단) 개미가 들어올 수 있는 문이나 창문의 틈을 막자. - 외부) 쓰레기 보관시, 쓰레기는 반드시 밀봉하고 쓰레기통의 뚜껑을 꼭 닫자. - 애완동물이 있는 경우) 애완동물이 바로 먹지 않는 음식은 바로 치우자. - 음식물 보관) 개미가 음식물에 접촉하기 전 어떤 장소에서, 어떤 물질을 묻히고 왔는지 알 수 없기에 음식물을 반드시 밀봉하여 개미가 음식물에 닿지 않도록 하자.\"",
-      "habit": "\"- 진딧물의 감로와 식물의 꿀에 모이고 작은 곤충이나 동물들을 사냥한다.  - 인가 주변에서 작은 곤충과 같은 동물을 사냥하며, 버려진 쓰레기를 먹기도 한다. - 주위 환경이 변화하여 위험을 감지할 경우 확산하여 여러 구역에 서식처를 만든다. - 주간에 먹이 활동을 하며, 야간에는 서식처에 모여 생활한다. - 3~11월에 일개미들이 활동하며, 여러 마리의 여왕개미를 중심으로 일개미가 함께 군체를 이루고 사는 '복수 여왕제' 사회구조를 지니고 있다. \"",
-      "harmfulness": 1,
-      "image": "https://dbscthumb-phinf.pstatic.net/2765_000_66/20181112192011037_A4XR89FWQ.jpg/267957.jpg?type=m4500_4500_fst&wm=N",
-      "name": "주름개미"
-    },
-    "Bug_05": {
-      "breed": 3,
-      "disease": "알레르기",
-      "eradication": "\"- 화장실, 주방, 배수구를 포함한 습한 장소를 찾아서 뜨거운 물로 청소를 한 후 약품으로 살균, 소독을 해준다. - 하수구 커버(덮개)를 이용해 평소에 덮어둔다. - 침입 경로가 되는 배관을 양파망이나 스타킹 등을 이용해 막는다.   - 음식물 쓰레기는 바로 처리한다.  - 생명력이 강하기에 쓰레기통보다는 변기에 버리는 것이 좋다.  - 물건을 쌓을 때는 벽면과 바닥이 밀착하지 않게 공간을 띄워두는 것이 좋다.  - 종이컵에 맥주를 절반 정도 채우고 과제를 몇 개 정도 넣어 곱등이가 빠지도록하는 트랩 방법을 이용할 수도 있다.  \"",
-      "habit": "\"-  실외지역에 주로 서식하며, 습한 지역을 선호나는 해충으로 곰팡이 및 유기물을 섭식한다.  - 실내로 침입할 경우 습기가 많은 지하실, 보일러실, 화단 및 화분 아래에서 서식한다.  - 주로 집안이나 마루 밑 등 어두운 곳에 숨어 있다가 밤에 활동한다.  \"",
-      "harmfulness": 2,
-      "image": "https://post-phinf.pstatic.net/MjAxNzA0MjhfNzUg/MDAxNDkzMzQyNjE3OTMz.CslVg8LAM6NvTqTkS6MS0HjxDoK75XUrWGGtlY1Bbw4g.V2hvb7cS_re8cE9GacphXNogjqE_h9ztUAVjOkiFYhwg.JPEG/image_9097718951493342344078.jpg?type=w1200",
-      "name": "곱등이"
-    },
-    "Bug_06": {
-      "breed": 3,
-      "disease": "알레르기, 피부, 호흡기 질환",
-      "eradication": "\"- 습도 관리(40~50% 유지)를 통해 먼지 없고 습도가 낮으며 공기 좋은 쾌적한 환경을 만들어준다. - 구석구석 눅눅하고 습한 부분들이 없도록 관리해준다.  - 증식하지 않도록 꾸준하고 주기적인 청소를 해준다. - 일광건조로 소독한다.  - 목재가구류의 가구는 벽에서 5cm 이상 간격을 두고 배치한다.  - 계피를 우린 물을 분무기에 넣어 서식할 만한 곳에 뿌려준다. \"",
-      "habit": "\"- 잡식성으로, 주로 미세한 균류나 곰팡이를 먹고 자란다.  - 생존 적정습도는 75~80%정도이다.  - 잡식성으로 균류, 꽃가루, 마른 식물, 곡물가루 또는 곤충의 시체 등이며 실내에서 서식하는 경우는 먼지도 섭취할 수 있다.  - 주요 서식처로는 습한 바닥, 배관틈새, 벽틈새, 화분 주위, 목재가구류, 책이나 종이 사이, 적재된 종이Box, 나무껍질 속, 해묵은 돌 표면, 낙엽 속 등지이다.\"",
-      "harmfulness": 2,
-      "image": "data:image/jpeg;base64,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",
-      "name": "먼지다듬이"
-    },
-    "Bug_07": {
-      "breed": 1,
-      "disease": "없음",
-      "eradication": "\"- 집 안의 환기를 자주하여 습도가 너무 높지 않도록 한다.  - 그리마가 좋아하는 세탁실이나 보일러실 등의 균열, 틈을 테이프로 막는다.  - 그리마는 계피와 양파의 향을 싫어하기에 양파와 계피가루를 집안 곳곳 습한 곳을 중심으로 둔다. \"",
-      "habit": "\"- 세면대, 욕실, 지하실, 등의 실내·외의 축축한 곳에 서식처를 두고 서식하며 하수구를 통하여 침입하지는 않는다.  - 작은 곤충, 곤충 유충, 곤충 사체를 먹고 산다.  - 실내에서 축축하고 어두운 곳에서 생활하기를 좋아한다. - 대체로 야행성의 습성을 가지고 있으나 낮에 활동하기도 한다. \"",
-      "harmfulness": 1,
-      "image": "https://w.namu.la/s/e1d068bb25cb77725216312e9022009dec1323e3f05ced1611adbc8a1d2d77a771bf3337d4447c18d1a1e4dc27df8ea64069bf56d3e4e4c33ae4a3039e755580f408fddb5f94e1aa7d11c0d3bcb8df955c31b08ddd3d87476f3b0deeefe5caab",
-      "name": "그리마"
-    },
-    "Bug_08": {
-      "breed": 2,
-      "disease": "물린 부위 붓고 쓰라림, 염증",
-      "eradication": "\"- 지네는 붕산, 백반을 싫어하기에 습한 환경이나 지네가 나타나기 쉬운 곳에 적당히 뿌려준다.  - 싱크대, 욕실, 하수구처럼 물을 접하는 곳에 50도 이상의 뜨거운 물을 수시로 뿌려준다. \"",
-      "habit": "\"- 삼림의 낙엽, 흙 속, 썩은 나무, 돌밑 등에서 서식하며 육식성으로 곤충이나 거미를 주로 잡아먹는다. \"",
-      "harmfulness": 2,
-      "image": "",
-      "name": "지네"
-    },
-    "Bug_09": {
-      "breed": 3,
-      "disease": "없음",
-      "eradication": "\"- 실내의 습도를 적절하게 조절한다.  - 배수구, 하수구 등의 유입 경로에 거름망 혹은 방충망을 활용하여 막아준다. - 집 주변 낙엽, 썩은 식물을 치운다. - 집 주변에 락스를 희석한 락스 물을 뿌리면 소독의 효과를 볼 수 있다.  \"",
-      "habit": "\"- 수분을 필요로 하기 때문에 수분이 존재하는 한정된 장소에서 서식한다.  - 수분이 없는 지역에서는 거의 생존이 불가능하며 적정 수분이 되지 않으면 체내 수분 손실을 막기 위해 하루종일 활동하지 않는다.  - 야간에 주로 활동하여 수분 감소를 최소화 한다.  - 서식처는 쓰레기 더미, 돌 밑, 물가, 신문이나 풀 더미, 식물뿌리, 썩은 식물 등이며 실내에 침입한 경우 수분이 있는 지역을 찾지 못하면 2일을 넘기지 못하고 자연 치사하게 된다.\"",
-      "harmfulness": 1,
-      "image": "https://w.namu.la/s/e06f0a4ec2a4e1fc40c2b0f5967b0d5ff1cd2b2e275ef1a57ccc5088cda9ffaeee112a5259ef437dfeecd7e00960ba2ee1328bf7c952c2ead87b408cf9051a5a69150681cd2228c96c03521c07b2817bba091003d6e8c567c23472f8904105aeeccd3a03a8b80412e286e35ba67dd5ed",
-      "name": "쥐며느리"
-    },
-    "Bug_10": {
-      "breed": 2,
-      "disease": "없음",
-      "eradication": "\"- 곡물이나 가공식품의 보관되는 양이 소량이라면 저온 상태로 보관한다. - 음식물 쓰레기는 완벽하게 밀봉된 상태로 폐기하여 2차 오염을 방지한다. - 미곡류를 보관할 때는 반드시 외부 해충의 침입을 막기 위해 밀폐용기에 보관하며 예방을 위해 낮은 습도의 서늘한 곳에 보관한다.\"",
-      "habit": "\"- 집이나 십료품을 취급하는 곳에서 발견된다.  - 성충은 짧은 거리의 비행이 가능하며, 빛에 유인된다.  - 수분을 함유한 콩, 완두, 견과류 등을 가해한다. \"",
-      "harmfulness": 0,
-      "image": "https://w.namu.la/s/8b8eba3a4a37337dcd41285958cefeff3394780f32101d94a7f61acd4c34ad62d60288013dc81ecc7150570f5e5496160d69d6a5f145caa2a2f6aead36602a4fd947d4c2692db81db5d0265dbb339c06c4b9d7b8f1062b6b0ec501095da930dc",
-      "name": "거저리"
-    },
-    "Bug_11": {
-      "breed": 1,
-      "disease": "가려움증(간지럼증), 알레르기, 아토피, 물린 부위가 빨갛게 부어오르고 진물이 남",
-      "eradication": "\"- 음식물이나 곡물의 경우 밀폐 용기에 넣어 보관한다. - 드라이플라워의 경우 유리병이나 밀폐된 것에 넣어 관리한다.  - 권연벌레가 발견되었다면 번식의 위험성이 있으므로 완전폐기한다.  - 침구류는 세탁 후 햇빛이 잘 드는 곳에 말려준다.  - 습기가 높은 곳은 보일러를 이용해 온도를 높여주며 창문을 열어 환기함으로써 습도를 조절해준다.  - 계피와 감초를 1:1의 비율로 섞어서 차로 우려낸 다음 분무기에 넣어 출범할 곳이나 발견된 곳에 뿌려준다. - 마늘을 갈아 물과 1:1의 비율로 섞어서 뿌려준다.  - 벌레들이 싫어하는 특유의 향인 편백나무(피톤치드)를 설치한다. \"",
-      "habit": "\"-  습한 7월이나 8월 여름 시기에 자주 발견된다. - 낡은 집, 오래된 집에 주로 서식한다. - 눅눅하고 오래된 곡식, 건조한 건어물, 동물사료, 목재, 드라이플라워 등에서 자주 발견된다.  - 사람의 피지를 먹기 위해 침구류에도 서식할 수 있다.  - 쌀, 현미, 콩잎담배, 밀가루, 보리가루, 약재, 잎담배, 저장창고, 베개, 핫팩 등에 서식한다. \"",
-      "harmfulness": 2,
-      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MjVfMzAg%2FMDAxNjY0MDk1MzQwMjA4.FCBHXVJUofkB6hEihQ9mnVFLlv0kzzNIOO9kn7ggXOgg.W2Uuujxd2ycWtD3pKK00-esHZupsr3jGY_ldaJBFQNsg.JPEG.onegunah%2FDSC_6521-2.JPG&type=sc960_832",
-      "name": "권연벌레"
-    },
-    "Bug_12": {
-      "breed": 2,
-      "disease": "없음",
-      "eradication": "\"- 쌀통에 고추, 숯, 계피 등을 넣어둔다.  - 소독용 에틸알콜이나 독한 술을 솜에 충분히 적셔서 밀폐된 살통에 넣어둔다. - 페트병에 담아 햇볕이 들지 않고 바람이 잘 통하는 선선한 곳에 보관한다.\"",
-      "habit": "\"- 쌀을 갉아먹는다.  - 어두운 곳을 좋아하며 햇빛을 피하는 습성이 있다.  - 성충은 기온이 15~16도 정도만 되어도 활발하게 활동한다. \"",
-      "harmfulness": 2,
-      "image": "https://w.namu.la/s/5ffef0b82e8338be2b04c57e81566b632c5476717f66a364a890c271fefeb80b14be57d00b4f7956a320faac28b7f351679f5d504e382624b8520aa6b2a29f45689a2c810b750157cc4161d286493dd9dcc0422ff69870f2bf2978e7eb5d3f3f",
-      "name": "쌀바구미"
-    },
-    "Bug_13": {
-      "breed": 1,
-      "disease": "없음",
-      "eradication": "\"- 환기를 자주 시킨다. - 옷장 안에 제습제를 놓아둔다. - 자주 출몰하거나 있는 모직물을 찾아 건조시킨다. - 창문과 방충망의 틈을 차단하여 외부로붜의 유입을 막는다. - 곡물류는 덮개가 있는 철저히 밀폐된 용기 혹은 냉장고에 보관한다. \"",
-      "habit": "\"- 실내에서는 카펫, 의류(털옷), 동물(곤충)표본, 견, 곡물, 건조한 동물성 물질 등 매우 다양한 동식물질을 먹는다.  - 식료품 보관장소, 부엌, 창고에서 발견된다.  - 습한 환경을 좋아한다. \"",
-      "harmfulness": 1,
-      "image": "https://mblogthumb-phinf.pstatic.net/20140918_129/woorieco_1411006318954R9o8q_JPEG/IMG_2218_1.jpg?type=w2",
-      "name": "애알락수시렁이"
-    },
-    "Bug_14": {
-      "breed": 1,
-      "disease": "없음",
-      "eradication": "\"- 곡물류는 밀폐하고 저온 보관을 한다. - 곡물의 오염이 의심된다면 그늘진 곳에 신문지를 깔고 곡물을 모두 꺼내 건조한 후, 신문지 외곽으로 박스 테이프를 양면으로 붙여 빠져나가는 성충이나 유충을 잡는다. - 뭉쳐진 곡물 덩어리는 발견하는 즉시 제거한다. - 벽에 틈새가 없는지 살피고 실리콘으로 처리하여 추가 발생을 막는다.\"",
-      "habit": "\"- 곡류에서 많이 발생하며 새로 들어온 가구나 침구, 장농, 벽지 틈에서 자주 보인다.  - 창고나 가구공장 등에서 서식한다. \"",
-      "harmfulness": 1,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Oryzaephilus_surinamensis_%28Linn%C3%A9%2C_1758%29_%2814438947353%29.png",
-      "name": "톱가슴머리대장"
-    },
-    "Bug_15": {
-      "breed": 3,
-      "disease": "아토피, 알레르기, 천식, 비염, 가려움증",
-      "eradication": "\"- 죽는 순간에도 알을 까기에 쓰레기통에 버리지 말자. - 음식물 음식물을 방치하지 않기) 물기가 없는 음식을 비닐봉지나 밀폐용기에 틈새 없이 밀봉하여 보관하자. - 음식 부스러기 청소) 음식을 섭취한 공간 및 준비한 공간, 사용한 소형가전제품에 떨어진 음식 부스러기를 청소하고 흘린 음료를 닦자. 쓰레기는 매일 비우고, 쓰레기통의 뚜껑을 닫아놓는다.  - 정리정돈) 오래된 신문, 잡지, 폐박스는 처분하고, 바퀴벌레가 숨기 좋은 찬장이나 바닥에 사용하지 않는 물품들을 정리하자. - 침입 및 서식처 봉쇄) 문, 파이프 틈새, 갈라진 틈 사이를 메워서 바퀴벌레가 사업장으로 침입하는 것을 차단하고, 서식처로 사용되지 못하도록 막자. 이후 바퀴벌레 전문업체를 통한 정기적인 검사를 실시하는 것이 좋다.\"",
-      "habit": "\"- 나무 그루터기, 오래 된 나무 밑둥에서도 발견되며, 돌 밑, 잔디 하단부, 숲 덤불 밑, 방치된 물건 하단부에서 서식한다. - 집단으로 생활하며 동료의 사체나 배설물로부터 사람의 타액 등 먹지 못하는 것이 없는 잡식성이다.  - 야행성이며 좁은 틈새에 몸이 눌리는 것을 좋아해 낮에는 주로 서식처에 숨어 지낸다. \"",
-      "harmfulness": 2,
-      "image": "https://w.namu.la/s/feac03d495d5eeb371a320067132d581ce8e1d38f7b5ee92794fd08bf13f1a54dcf566d1ec9d1feb9eb2bf750d9203b26ef6ce7070de7fb39912a1b1bb92dc26776cfa91843053e1220d282ad35286ae9feb543e7fb6ce8c3a551935900a804f",
-      "name": "경도바퀴"
-    },
-    "Bug_16": {
-      "breed": 3,
-      "disease": "아토피, 알레르기, 천식, 비염, 가려움증",
-      "eradication": "\"- 죽는 순간에도 알을 까기에 쓰레기통에 버리지 말자. - 음식물 음식물을 방치하지 않기) 물기가 없는 음식을 비닐봉지나 밀폐용기에 틈새 없이 밀봉하여 보관하자. - 음식 부스러기 청소) 음식을 섭취한 공간 및 준비한 공간, 사용한 소형가전제품에 떨어진 음식 부스러기를 청소하고 흘린 음료를 닦자. 쓰레기는 매일 비우고, 쓰레기통의 뚜껑을 닫아놓는다.  - 정리정돈) 오래된 신문, 잡지, 폐박스는 처분하고, 바퀴벌레가 숨기 좋은 찬장이나 바닥에 사용하지 않는 물품들을 정리하자. - 침입 및 서식처 봉쇄) 문, 파이프 틈새, 갈라진 틈 사이를 메워서 바퀴벌레가 사업장으로 침입하는 것을 차단하고, 서식처로 사용되지 못하도록 막자. 이후 바퀴벌레 전문업체를 통한 정기적인 검사를 실시하는 것이 좋다.\"",
-      "habit": "\"- 활동 최적온도는 30℃이며, 20℃이하에서는 활동이 저하된다. - 야행성으로 저녁부터 이른 새벽 시간에 주로 활동한다. - 날개를 가지고 있으나, 비행을 하지 않으며, 낙하 시 활공정도로만 사용된다. - 어둡고, 좁은 틈을 좋아하며, 습한 장소를 선호한다. - 일반적으로 부엌과 화장실에서 번식하며, 식품과 물이 있는 곳과 가까운 1.5m미만인 곳을 선호한다.  - 배설물에 집합페로몬이 섞여있어 배설물이 있는 인근에 모여 지내며 배설한다. - 집단으로 생활하며 동료의 사체나 배설물로부터 사람의 타액 등 먹지 못하는 것이 없는 잡식성이다. \"",
-      "harmfulness": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Blattodea._Cascuda._Santiago_de_Compostela_1.jpg/375px-Blattodea._Cascuda._Santiago_de_Compostela_1.jpg",
-      "name": "독일바퀴"
-    },
-    "Bug_17": {
-      "breed": 3,
-      "disease": "아토피, 알레르기, 천식, 비염, 가려움증",
-      "eradication": "\"- 죽는 순간에도 알을 까기에 쓰레기통에 버리지 말자. - 음식물 음식물을 방치하지 않기) 물기가 없는 음식을 비닐봉지나 밀폐용기에 틈새 없이 밀봉하여 보관하자. - 음식 부스러기 청소) 음식을 섭취한 공간 및 준비한 공간, 사용한 소형가전제품에 떨어진 음식 부스러기를 청소하고 흘린 음료를 닦자. 쓰레기는 매일 비우고, 쓰레기통의 뚜껑을 닫아놓는다.  - 정리정돈) 오래된 신문, 잡지, 폐박스는 처분하고, 바퀴벌레가 숨기 좋은 찬장이나 바닥에 사용하지 않는 물품들을 정리하자. - 침입 및 서식처 봉쇄) 문, 파이프 틈새, 갈라진 틈 사이를 메워서 바퀴벌레가 사업장으로 침입하는 것을 차단하고, 서식처로 사용되지 못하도록 막자. 이후 바퀴벌레 전문업체를 통한 정기적인 검사를 실시하는 것이 좋다.\"",
-      "habit": "\"- 특이하게 저온에 적응한 종으로써 세계에서 가장 북쪽에 서식하는 종이다. - 잡식성이며, 야행성이다. - 발달된 날개를 가지고 있어 장거리 비행이 가능하다. - 알주머니를 생성하게 되면, 안전한 곳에 부착해둔다. - 좁은 틈새에 몸이 눌리는 것을 좋아해 낮에는 주로 서식처에 숨어 지낸다.  - 집의 옥상이나 화분, 화단, 텃밭에 있을 가능성이 높다.  - 오래된 주택이나 빌라에서 서식하며, 가정집에 쉽게 침투하지 못하나 한 번 침투하면 오랜기간동안 머무는 습성이 있다. \"",
-      "harmfulness": 2,
-      "image": "https://w.namu.la/s/9ee350d520560d8f17dc52e7d4443222c23ef948df388ba2e3c67041788f4f3496dd9f2ca8e700b8181233925d94557674523a273e48922a931cb2cd142e5fb0f56170e7a9fa68ab5a206de91a94d20fba6ee49d7cdea4976818dfc3bffd0550",
-      "name": "먹바퀴"
-    },
-    "Bug_18": {
-      "breed": 3,
-      "disease": "아토피, 알레르기, 천식, 비염, 가려움증",
-      "eradication": "\"- 죽는 순간에도 알을 까기에 쓰레기통에 버리지 말자. - 음식물 음식물을 방치하지 않기) 물기가 없는 음식을 비닐봉지나 밀폐용기에 틈새 없이 밀봉하여 보관하자. - 음식 부스러기 청소) 음식을 섭취한 공간 및 준비한 공간, 사용한 소형가전제품에 떨어진 음식 부스러기를 청소하고 흘린 음료를 닦자. 쓰레기는 매일 비우고, 쓰레기통의 뚜껑을 닫아놓는다.  - 정리정돈) 오래된 신문, 잡지, 폐박스는 처분하고, 바퀴벌레가 숨기 좋은 찬장이나 바닥에 사용하지 않는 물품들을 정리하자. - 침입 및 서식처 봉쇄) 문, 파이프 틈새, 갈라진 틈 사이를 메워서 바퀴벌레가 사업장으로 침입하는 것을 차단하고, 서식처로 사용되지 못하도록 막자. 이후 바퀴벌레 전문업체를 통한 정기적인 검사를 실시하는 것이 좋다.\"",
-      "habit": "\"- 활동 최적온도는 29℃이며, 23~33℃ 범위에서 정상 활동을 하고 20℃이하에서 활동이 저하된다. - 야행성으로 빛을 싫어한다. - 발달된 날개를 가지고 있어 장거리 비행이 가능하다. - 하수관, 지하 비트 등 실 외에서 서식하며, 실내의 경우 보일러실과 같은 따뜻하고 물기가 많은 곳에 서식한다. - 집단으로 생활하며 동료의 사체나 배설물로부터 사람의 타액 등 먹지 못하는 것이 없는 잡식성이다.\"",
-      "harmfulness": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/American_cockroach_8-15-2009.jpg/375px-American_cockroach_8-15-2009.jpg",
-      "name": "미국바퀴"
-    },
-    "Bug_19": {
-      "breed": 3,
-      "disease": "아토피, 알레르기, 천식, 비염, 가려움증",
-      "eradication": "\"- 죽는 순간에도 알을 까기에 쓰레기통에 버리지 말자. - 음식물 음식물을 방치하지 않기) 물기가 없는 음식을 비닐봉지나 밀폐용기에 틈새 없이 밀봉하여 보관하자. - 음식 부스러기 청소) 음식을 섭취한 공간 및 준비한 공간, 사용한 소형가전제품에 떨어진 음식 부스러기를 청소하고 흘린 음료를 닦자. 쓰레기는 매일 비우고, 쓰레기통의 뚜껑을 닫아놓는다.  - 정리정돈) 오래된 신문, 잡지, 폐박스는 처분하고, 바퀴벌레가 숨기 좋은 찬장이나 바닥에 사용하지 않는 물품들을 정리하자. - 침입 및 서식처 봉쇄) 문, 파이프 틈새, 갈라진 틈 사이를 메워서 바퀴벌레가 사업장으로 침입하는 것을 차단하고, 서식처로 사용되지 못하도록 막자. 이후 바퀴벌레 전문업체를 통한 정기적인 검사를 실시하는 것이 좋다.\"",
-      "habit": "\"- 특이하게 저온에 적응한 종으로써 세계에서 가장 북쪽에 서식하는 종이다. - 인가의 경우 하수관이나, 보일러실, 건물 주위 텃밭, 옥상 정원, 화분 주위에서 발견되며, 인가 주변에 위치한 숲에서도 서식하여, 반옥외성 바퀴이다. - 옥외에서 서식하는 바퀴의 경우 겨울철 동면을 가지는 것으로 추정된다. - 수컷의 경우 온전한 날개를 가지고 있으나, 비행을 하지 않으며, 낙하 시 활공정도로만 사용된다. - 집단으로 생활하며 동료의 사체나 배설물로부터 사람의 타액 등 먹지 못하는 것이 없는 잡식성이다. - 야행성이며 좁은 틈새에 몸이 눌리는 것을 좋아해 낮에는 주로 서식처에 숨어 지낸다. \"",
-      "harmfulness": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dead-cockroach-inJapan-june1-2015.jpg/375px-Dead-cockroach-inJapan-june1-2015.jpg",
-      "name": "일본바퀴"
-    },
-    "Bug_20": {
-      "breed": 3,
-      "disease": "피부 손상과 2차 감염",
-      "eradication": "\"- 빛이 들어오지 않는 이음새 혹은 박스 스프링과 프레임이 닿는 부분에 많기에 침대에서 아지트를 발견했다면 해당 프레임과 스프링은 무조건 버린다(단, 금속이면 물로 깨끗이 씻고 햇빛이 강하게 드는 실외에 두면 된다). - 침대를 분해해 벽에 대고 세워두어 빈대가 있는지 확인하고 빈대를 없애기 위해 매트리스 아래쪽의 천을 걷어내 스프링을 수시로 살펴보자.  - 매트리스에서 빈대를 발견했다면 매트리스 자체를 버리거나 빈대 방지용 매트리스 커버를 구입하여 매트리스를 넣고 빈대가 빠져나가지 못하게 하여 빈대를 굶겨 죽이는 방법이 있다. - 빈대가 발견된 물건들을 세탁하거나 버린다.  - 증기를 구석구석 이음새마다 확실하게 뿌려줘 빈대와 빈대알을 제거한다.  - 빈대 서식지 제거를 위해 벽의 틈새를 석고로 채우고 너덜거리는 벽지에 접착제를 발라 다시 벽에 붙인다. - 짐은 바닥에 내려놓지 않는다. \"",
-      "habit": "\"- 주로 침대의 매트리스나 다리에서 사는 것을 선호하며 침대 헤드 및 침대, 가구나 침실 벽의 틈 혹은 벽지 틈, 액자 뒤 등에 숨어 있다가 야간에 흡혈활동을 한다. - 저녁보다는 이른 새벽에 더 활발하게 움직인다.\"",
-      "harmfulness": 3,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cimex_lectularius.jpg/375px-Cimex_lectularius.jpg",
-      "name": "빈대"
-    },
-    "Bug_21": {
-      "breed": 1,
-      "disease": "신증후군출혈열 - 증상 : 발열, 출혈소견, 신부전이 주요한 3대 증상이고, 오한, 두통, 요통, 근육통, 안면홍조, 결막충혈, 겨드랑이와 연구개 점상출혈, 특징적으로 양측 늑척추각의 압통 등이 관찰되기도 하며 심한 경우 의식저하나 경련이 발생하기도 한다.  렙토스피라증 - 증상: 갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈",
-      "eradication": "\"음식) - 음식은 뚜껑을 지닌 금속 또는 유리 용기에 보관하자 - 애완동물 사료와 새 모이 조각을 청소하시고 애완동물 사료를 밀폐용기에 보관하자 - 될수 있으면 바닥 위에 보관하자. 정리정돈) - 건물 주변을 깔끔하게 정리하자 - 물건 더미가 적을수록 숨을 장소가 적다는 뜻이다. - 실외의 쓰레기 봉투는 딱 맞는 뚜껑이 있는 금속 쓰레기통에 넣어서 쥐들이 내용물을 먹지 못하도록 하십시오. - 정원에 쓰레기가 없도록 하자. 만약 퇴비 더미가 있는 경우에는 음식물 찌꺼기를 포함시키지 않도록 하자. 유기 음식물 찌꺼기에 쥐들이 몰려들 수 있다.\"",
-      "habit": "\"- 산이나 들의 습하지 않은 곳에 복잡한 굴을 파고 서식한다. - 화본과 식물의 종자를 주로 먹는데, 식량을 저장하지 않아 겨울에도 먹이를 찾아 헤맨다. 복잡한 굴을 뚫고 지하 40cm 정도의 깊이에 수수나 조의 잎 또는 화본과·사초과 식물의 잎을 엉성하게 잘라 보금자리를 만든다.\"",
-      "harmfulness": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mysz_polna2.jpg/375px-Mysz_polna2.jpg",
-      "name": "등줄쥐"
-    },
-    "Bug_22": {
-      "breed": 1,
-      "disease": "\"신증후군출혈열 - 증상 : 발열, 출혈소견, 신부전이 주요한 3대 증상이고, 오한, 두통, 요통, 근육통, 안면홍조, 결막충혈, 겨드랑이와 연구개 점상출혈, 특징적으로 양측 늑척추각의 압통 등이 관찰되기도 하며 심한 경우 의식저하나 경련이 발생하기도 한다.  렙토스피라증 - 증상: 갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈\"",
-      "eradication": "\"음식) - 음식은 뚜껑을 지닌 금속 또는 유리 용기에 보관하자 - 애완동물 사료와 새 모이 조각을 청소하시고 애완동물 사료를 밀폐용기에 보관하자 - 될수 있으면 바닥 위에 보관하자. 정리정돈) - 건물 주변을 깔끔하게 정리하자 - 물건 더미가 적을수록 숨을 장소가 적다는 뜻이다. - 실외의 쓰레기 봉투는 딱 맞는 뚜껑이 있는 금속 쓰레기통에 넣어서 쥐들이 내용물을 먹지 못하도록 하십시오. - 정원에 쓰레기가 없도록 하자. 만약 퇴비 더미가 있는 경우에는 음식물 찌꺼기를 포함시키지 않도록 하자. 유기 음식물 찌꺼기에 쥐들이 몰려들 수 있다.\"",
-      "habit": "\"- 야행성 동물이다. - 계절에 따라 털갈이를 한다. - 온대 낙엽활엽수림·숲 속의 습지·건조한 목초지·강가의 관목림·농경지·산쑥이 무성한 길가 등에 서식한다. - 주요 먹이는 작은 곤충이나 지렁이 같은 소형 무척추동물이다. - 워낙에 소형 생물이다 보니 신진대사가 빨라서 24시간만 굶어도 죽는다.\"",
-      "harmfulness": 2,
-      "image": "https://w.namu.la/s/cf4dea0f79e4dd39c9dbe4f721ce466f93f6912057fe784cfbb7be0f5d3de49bfe9983c2058f9ca15dc97fc0b0e8b34b80135ba083f32cd75496c68d36e753613b7845532ba0a518f3fb82dda303f53d5d34c10cc6967e3989c0fe7b13c59a4a3359bb6b6cdb65de956c81f6f98fd2d9",
-      "name": "땃쥐"
-    },
-    "Bug_23": {
-      "breed": 1,
-      "disease": "\"신증후군출혈열 - 증상 : 발열, 출혈소견, 신부전이 주요한 3대 증상이고, 오한, 두통, 요통, 근육통, 안면홍조, 결막충혈, 겨드랑이와 연구개 점상출혈, 특징적으로 양측 늑척추각의 압통 등이 관찰되기도 하며 심한 경우 의식저하나 경련이 발생하기도 한다.  렙토스피라증 - 증상: 갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈\"",
-      "eradication": "\"- 식품안전) 생쥐가 음식으로 유인되지 않도록 하자. 정기적으로 난로, 냉장고와 찬장 아래를 청소하자. - 문) 문 아래에 솔 (또는 브러시)를 달아서 특히 문이 꽉 닫히지 않는 오래된 건물에서 생쥐가 들어오지 못하도록 하자. - 배관) 기존 또는 신규 파이프를 거친 등급의 스테인레스 수세미와 코킹(유연한 밀봉재)으로 막자. - 구멍) 구멍은 대개 외벽에 케이블과 파이프가 통과하기 위해 만들어지며, 오래된 배관 구멍이 밀봉되었는지 확인하자. 5mm 이상의 구멍에는 생쥐가 들어갈 수 있는데, 그 이유는 생쥐의 턱이 이렇게 좁은 공간으로 들어가 건물 안으로 들어갈 수 있는 큰 구멍을 재빨리 갉아내기 때문이다. - 통풍 벽돌과 환기구) 이들은 특히 손상된 경우에는 아연 도금된 촘촘한 철망으로 막도록 하자. - 처마) 손상된 지붕을 수리하고 철망을 사용해 틈새를 밀봉하도록 하자. - 식물) 집에 근접한 가지를 치도록 하시고 가능한 경우 건물 측면으로 자라는 식물들을 기피하자. 생쥐들은 덩굴, 관목 또는 돌출된 가지를 이용하여 지붕으로 올라갈 수 있다. 벽에 가까이 있는 무성한 식물은 생쥐에게 피난처와 잠재적인 서식지를 제공할 수 있다. \"",
-      "habit": "\"- 야간에 주로 활동을 하는데 23:00∼24:00에 가장 활발하다. - 전방 15cm 이상을 볼 수 없을 정도로 시력이 미약하고 색맹이나 후각, 미각, 청각, 촉각은 매우 민감하고 뛰어나다. - 새로운 음식 및 물체에 대하여 호기심이 많으며 나무나 벽 등에 잘 기어 오를 수 있고 수영도 할 수 있다. - 실내, 실외 어디든지 먹이와 가까운 곳에 둥지를 만들고 생활하는데 행동반경은 3 ~ 6 m 정도로 매우 국한적이다. - 잡식성이나 곡물의 낟알을 하루 3g 섭취하며 신선하고 깨끗한 음식을 좋아한다. 수분은 하루에1.5㎖ 섭취하지만 - 음식내의 수분 섭취로 거의 물이 없는 곳에서도 생존이 가능하다.\"",
-      "harmfulness": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/House_mouse.jpg",
-      "name": "생쥐"
-    },
-    "Bug_24": {
-      "breed": 1,
-      "disease": "\"신증후군출혈열 - 증상 : 발열, 출혈소견, 신부전이 주요한 3대 증상이고, 오한, 두통, 요통, 근육통, 안면홍조, 결막충혈, 겨드랑이와 연구개 점상출혈, 특징적으로 양측 늑척추각의 압통 등이 관찰되기도 하며 심한 경우 의식저하나 경련이 발생하기도 한다.  렙토스피라증 - 증상: 갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈\"",
-      "eradication": "\"음식) - 음식은 뚜껑을 지닌 금속 또는 유리 용기에 보관하자 - 애완동물 사료와 새 모이 조각을 청소하시고 애완동물 사료를 밀폐용기에 보관하자 - 될수 있으면 바닥 위에 보관하자. 정리정돈) - 건물 주변을 깔끔하게 정리하자 - 물건 더미가 적을수록 숨을 장소가 적다는 뜻이다. - 실외의 쓰레기 봉투는 딱 맞는 뚜껑이 있는 금속 쓰레기통에 넣어서 쥐들이 내용물을 먹지 못하도록 하십시오. - 정원에 쓰레기가 없도록 하자. 만약 퇴비 더미가 있는 경우에는 음식물 찌꺼기를 포함시키지 않도록 하자. 유기 음식물 찌꺼기에 쥐들이 몰려들 수 있다.\"",
-      "habit": "\"- 잡식성이나, 육식을 선호한다. - 수영에 능숙하여, 물이 있는 배수관을 타고 이동하기도 한다. - 땅속에 굴을 만들어 서식처를 두는 경우가 많다. - 의심이 많고 새로운 것에 경계심이 높다.\"",
-      "harmfulness": 2,
-      "image": "https://w.namu.la/s/440367838951d06991d6f4a8d4d46ea431fbb6cdd7cd3fdd499a6383d19b69bf66bbc14a7315a904f15ff5229f67b086c3be5f677e4803e173b838c8d058b94d08b7a670402cced6c25bbd460aa6328b1a3b19f429065e796289a9bafcfa4fad",
-      "name": "시궁쥐"
-    },
-    "Bug_25": {
-      "breed": 1,
-      "disease": "\"신증후군출혈열 - 증상 : 발열, 출혈소견, 신부전이 주요한 3대 증상이고, 오한, 두통, 요통, 근육통, 안면홍조, 결막충혈, 겨드랑이와 연구개 점상출혈, 특징적으로 양측 늑척추각의 압통 등이 관찰되기도 하며 심한 경우 의식저하나 경련이 발생하기도 한다.  렙토스피라증 - 증상: 갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈\"",
-      "eradication": "\"음식) - 음식은 뚜껑을 지닌 금속 또는 유리 용기에 보관하자 - 애완동물 사료와 새 모이 조각을 청소하시고 애완동물 사료를 밀폐용기에 보관하자 - 될수 있으면 바닥 위에 보관하자. 정리정돈) - 건물 주변을 깔끔하게 정리하자 - 물건 더미가 적을수록 숨을 장소가 적다는 뜻이다. - 실외의 쓰레기 봉투는 딱 맞는 뚜껑이 있는 금속 쓰레기통에 넣어서 쥐들이 내용물을 먹지 못하도록 하십시오. - 정원에 쓰레기가 없도록 하자. 만약 퇴비 더미가 있는 경우에는 음식물 찌꺼기를 포함시키지 않도록 하자. 유기 음식물 찌꺼기에 쥐들이 몰려들 수 있다.\"",
-      "habit": "\"- 잡식성이나, 과일과 견과류등을 먹는 것을 선호한다. - 긴 꼬리를 이용하여 높은 곳에서도 안정적으로 균형을 잡으며 돌아다닌다. - 땅 보다는 높은 천장, 지붕 등 높은 위치에 둥지를 만들어 서식처로 한다.\"",
-      "harmfulness": 2,
-      "image": "https://cdn.pixabay.com/photo/2015/09/28/00/50/roof-rat-961499_960_720.jpg",
-      "name": "지붕쥐"
-    },
-    "Bug_26": {
-      "breed": 3,
-      "disease": "없음",
-      "eradication": "\"<환경> - 습기 제거 : 좀벌레는 고온다습한 환경을 좋아하므로 제습기나 에어컨의 제습기능을 이용해 집의 습기를 제거해 서식환경을 없애자. - 틈새 제거 : 어두운 틈새에 숨어지내다 야간에 나오는 좀벌레의 특성상 집안의 틈새는 좀벌레가 숨기에 아주 좋은 장소이다. 위치에 따라 실리콘등의 제품으로 꼼꼼이 막아주도록 하자. 몰딩 틈새나 부엌 화장실의 작은 틈새들을 꼼꼼이 막아주자. - 좀벌레 먹이가 될만한 것들 치우기 : 종이로 된 책이나 상자등은 바닥보다는 선반 등에 올려 보관하는 것이 좋다. 천연섬유의 옷감 등을 나무 옷장이나, 지하실 등 어두운곳에 보관하고 있다면 비닐봉투로 감싸 보관하는 것도 방법이다. 청소기를 자주 돌려 바닥에 좀벌레의 먹이가 될 만한 것들을 제거하고 카펫이나 몰딩 등에 있을 법한 좀벌레 알도 함께 제거하자.\"",
-      "habit": "\"- 야행성이다. 낮에는 숨어 지내다가 밤에 먹이활동을 한다. - 오랫동안 쌓아둔 옷이나 서랍, 장롱 등 습하고 어두운 곳에서 쉽게 발견된다. - 종이나 풀의 탄수화물, 사람의 각질, 먼지, 그리고 옷 등의 식물성 섬유를 주로 섭취한다.\"",
-      "harmfulness": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ctenolepisma_longicaudata_%28long-tailed_silverfish%29%2C_Mook%2C_the_Netherlands.JPG/375px-Ctenolepisma_longicaudata_%28long-tailed_silverfish%29%2C_Mook%2C_the_Netherlands.JPG",
-      "name": "좀벌레"
-    },
-    "Bug_27": {
-      "breed": 2,
-      "disease": "오이모자이크바이러스, 수박모자이크바이러스, 호박누른모자이크바이러스",
-      "eradication": "- 집에서 기르는 화초에 귀찮은 진딧물이 생겼을 때 방제하는 진딧물방제제로는 잘 알려진 우유와 흑설탕 그리고 식초 등이 있다.",
-      "habit": "\"- 바늘 같은 입으로 식물즙을 빨아 먹고 산다. - 주로 농작물 지대에서 서식하는 진딧물은 놀라운 번식력과 식물즙을 빨아 먹고 병을 옮기는 해충으로 분류한다.\"",
-      "harmfulness": 2,
-      "image": "https://w.namu.la/s/1ff5eb8765a994fe2c1e545f9b24743374fa7bdc2c5f43c80cf64b6253e176babc537c308671f52a71f6c13081eed18b97f9ffabd240ef9ce5e10be1414799461cc910ada81be704a515cc408eb5118f464e2f5c9c11b318d73abeab764a91fe",
-      "name": "진딧물"
-    },
-    "Bug_28": {
-      "breed": 2,
-      "disease": "없음",
-      "eradication": "\"- 방충망이나 밖에서 유입될 수 있는 구멍을 막는다. - 창늘의 물구멍을 막는다. - 습기 관리를 해준다. - 락스 청소가 가능한 곳은 수시로 락스 청소를 해준다.\"",
-      "habit": "\"- 작은 곤충이나 썩은 낙엽, 부식질 등을 먹는 잡식성이다. - 야행성이라 밤중에 벽의 가장자리를 따라 걸어 다니며 낮에는 쉴 만한 곳을 찾아 중력의 반대방향으로 후미진 구석을 파고든다. - 산에도 살지만, 가끔 사람 집에도 들어와 산다. 주로 화장실 배관 씽크대 배고나주변, 방이나 거실 장판밑, 화분밑 등 습하고 어두운 곳에서 서식을 한다.\"",
-      "harmfulness": 1,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Forficula_auricularia.jpg/375px-Forficula_auricularia.jpg",
-      "name": "집게벌레"
-    },
-    "Bug_29": {
-      "breed": 1,
-      "disease": "없음",
-      "eradication": "\"깔따구는 보이는 성충들을 죽이는 것도 중요하지만 그 이동 경로를 차단하거나 초기 유입을 막는 것이 가장 현명하다.  - 건물 외부에 위치한 사용하지 않는 타이어, 빈 캔과 병, 플라스틱 통 등 물이 고일 수 있는 것들을 제거하고 깔따구의 번식처가 되지 않도록 하자.  - 배수구 주변으로 물이 고여있지 않도록 주의하고, 낙엽과 쓰레기 등으로 막히지 않도록 하자.  - 화병, 항아리와 같이 물이 항상 담겨있어야 하는 곳은 자주 물을 교체하고, 깔따구 유충이 번식하는지 지속 모니터링 하자.\"",
-      "habit": "\"- 성충은 구기가 퇴화하여 흡혈 등과 같은 먹이활동을 하지 않는다. - 야행성으로 밝은 빛에 유인되어 모여든다. - 비가 온 후 대발생하며, 밝은 등불 아래에서 단체 교미 군무를 한다.\"",
-      "harmfulness": 1,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Chironomus_plumosus01.jpg/375px-Chironomus_plumosus01.jpg",
-      "name": "깔따구"
-    },
-    "Bug_30": {
-      "breed": 3,
-      "disease": "없음",
-      "eradication": "\"식품의 원료를 서늘한 곳에 보관함으로써 나방 유충의 활동과, 성충으로 우화하는 것을 막을 수 있다.  원료를 가능한 소량씩 구입하고 보관함으로써 큰 피해를 예방할 수 있다.  유충이 이미 발생된 원료와 식품은 다른 제품들과 분리하여 보관하고 폐기하는 것이 좋다.  식품의 분진이 쌓이기 쉬운 사업장 내 설비물 틈새와 환기구 등을 주기적으로 청소하여야 한다.  나방 성충이 발견되었다면 성충을 포획할 수 있는 페로몬트랩 등을 이용할 수 있다.\"",
-      "habit": "\"- 유충은 곡물, 과자 등을 가해하는 주요 해충이다. 유충의 먹이는 저장 곡물, 과자류, 건과, 건조된 곤충표본 등; 수수, 조, 기장, 벼로 알려져 있다. - 유충과 성충 모두 야간에 활동하기 때문에 근원지를 찾기 어렵기도 하다. 특히 유충은 구석에 숨어 지내기 때문에 쉽게 발견되지도 않는다.\"",
-      "harmfulness": 0,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pyralis_farinalis_001.jpg/375px-Pyralis_farinalis_001.jpg",
-      "name": "밀가루줄명나방"
-    },
-    "Bug_31": {
-      "breed": 1,
-      "disease": "없음",
-      "eradication": "\"식품의 원료를 서늘한 곳에 보관함으로써 나방 유충의 활동과, 성충으로 우화하는 것을 막을 수 있다.  원료를 가능한 소량씩 구입하고 보관함으로써 큰 피해를 예방할 수 있다.  유충이 이미 발생된 원료와 식품은 다른 제품들과 분리하여 보관하고 폐기하는 것이 좋다.  식품의 분진이 쌓이기 쉬운 사업장 내 설비물 틈새와 환기구 등을 주기적으로 청소하여야 한다.  나방 성충이 발견되었다면 성충을 포획할 수 있는 페로몬트랩 등을 이용할 수 있다.\"",
-      "habit": "\" - 비스킷, 스낵과자 등의 가공식품, 곡류, 콩류, 건조과실 및 건조 채소의 중요 해충이다. - 성충은 밤에 활동하면서 산란하는데 알은 공중 투하 식으로 1알씩 떨어트린다. - 유충은 실을 토하며 곡립을 얽어매어 엷은 막을 형성한다. 월동시 막 속에서 노숙 유층으로 월동한다.\"",
-      "harmfulness": 0,
-      "image": "https://search.pstatic.net/common/?src=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4907_000_3%2F20170527034723481_9NDKCBUVF.JPG%2Fib66_4785_i1.JPG%3Ftype%3Dm4500_4500_fst_forest&type=sc960_832",
-      "name": "줄알락명나방"
-    },
-    "Bug_32": {
-      "breed": 2,
-      "disease": "없음",
-      "eradication": "\"식품의 원료를 서늘한 곳에 보관함으로써 나방 유충의 활동과, 성충으로 우화하는 것을 막을 수 있다.  원료를 가능한 소량씩 구입하고 보관함으로써 큰 피해를 예방할 수 있다.  유충이 이미 발생된 원료와 식품은 다른 제품들과 분리하여 보관하고 폐기하는 것이 좋다.  식품의 분진이 쌓이기 쉬운 사업장 내 설비물 틈새와 환기구 등을 주기적으로 청소하여야 한다.  나방 성충이 발견되었다면 성충을 포획할 수 있는 페로몬트랩 등을 이용할 수 있다.\"",
-      "habit": "\"- 식품에서 주로 생활을 하기에 살충제를 이용하여 방제하기에는 다소 어려우며, 유입을 차단하는 것이 가장 효과적이다. - 유충은 강한 턱과 이빨을 가져 식품의 포장재를 가해한 후 침입하기도 한다. - 성충은 빛을 선호하지 않는 음주광성의 습성을 가진다.\"",
-      "harmfulness": 0,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Indianmeal_moth_2009.jpg/375px-Indianmeal_moth_2009.jpg",
-      "name": "화랑곡나방"
-    },
-    "Bug_33": {
-      "breed": 2,
-      "disease": "일본뇌염, 웨스트나일뇌염",
-      "eradication": "\"<환경> - 모기장/방충망을 모든 창문에 설치하여 모기가 건물에 들어오지 못하도록 하십시오. - 건물 외부에 위치한 사용하지 않는 타이어, 빈 캔과 병, 플라스틱 통 등 물이 고일 수 있는 것들을 제거하여 모기의 번식처가 되지 않도록 하십시오. - 배수구 주변으로 물이 고여있지 않도록 주의하여 주시고, 낙엽과 쓰레기 등으로 막히지 않도록 하십시오. - 화병, 항아리와 같이 물이 항상 담겨있어야 하는 곳은 자주 물을 교체하시고, 모기 유충이 번식하는지 지속 모니터링 하십시오.  <사람> - 밝은 색 옷 입기 - 땀 바로 씻고 음주 피하기 - 살 빼기 - 선풍기 틀기 - 허브 오일 바르기\"",
-      "habit": "\"- 작은빨간집모기 유충은 미나리꽝, 논, 웅덩이 등 비교적 썩지 않는 맑은 물에 서식한다. - 주로 밤 시간(8∼10시)에 활동하며, 인체흡혈은 5% 내외이다. - 흔히 논, 축사에서 소, 돼지 등 큰 동물을 주로 흡혈한다.\"",
-      "harmfulness": 2,
-      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F022%2F2019%2F04%2F08%2F20190408514544_20190408201203070.jpg&type=sc960_832",
-      "name": "작은빨간집모기"
-    },
-    "Bug_34": {
-      "breed": 2,
-      "disease": "말라리아",
-      "eradication": "\"<환경> - 모기장/방충망을 모든 창문에 설치하여 모기가 건물에 들어오지 못하도록 하십시오. - 건물 외부에 위치한 사용하지 않는 타이어, 빈 캔과 병, 플라스틱 통 등 물이 고일 수 있는 것들을 제거하여 모기의 번식처가 되지 않도록 하십시오. - 배수구 주변으로 물이 고여있지 않도록 주의하여 주시고, 낙엽과 쓰레기 등으로 막히지 않도록 하십시오. - 화병, 항아리와 같이 물이 항상 담겨있어야 하는 곳은 자주 물을 교체하시고, 모기 유충이 번식하는지 지속 모니터링 하십시오.  <사람> - 밝은 색 옷 입기 - 땀 바로 씻고 음주 피하기 - 살 빼기 - 선풍기 틀기 - 허브 오일 바르기\"",
-      "habit": "\"- 소, 말, 돼지 등 가축을 주로 흡혈하며, 소수는 사람을 흡혈한다. 1회 흡혈로 20 ~ 400개의 알을 산란한다. - 활동시간은 일몰 후 어두워지면서 일출 전 밝아지기 직전까지이며 밤 10시에서 2시까지가 가장 활발한 흡혈활동시간이다.\"",
-      "harmfulness": 2,
-      "image": "https://cdn.rentokil.com/content/global/images/desktop/main_aedes-mosquito.jpg",
-      "name": "중국얼룩날개모기"
-    },
-    "Bug_35": {
-      "breed": 2,
-      "disease": "웨스트나일뇌염",
-      "eradication": "\"<환경> - 모기장/방충망을 모든 창문에 설치하여 모기가 건물에 들어오지 못하도록 하십시오. - 건물 외부에 위치한 사용하지 않는 타이어, 빈 캔과 병, 플라스틱 통 등 물이 고일 수 있는 것들을 제거하여 모기의 번식처가 되지 않도록 하십시오. - 배수구 주변으로 물이 고여있지 않도록 주의하여 주시고, 낙엽과 쓰레기 등으로 막히지 않도록 하십시오. - 화병, 항아리와 같이 물이 항상 담겨있어야 하는 곳은 자주 물을 교체하시고, 모기 유충이 번식하는지 지속 모니터링 하십시오.  <사람> - 밝은 색 옷 입기 - 땀 바로 씻고 음주 피하기 - 살 빼기 - 선풍기 틀기 - 허브 오일 바르기\"",
-      "habit": "건물의 실내, 실외에 작게 고인 물에서도 산란하여 발생될 수 있다. 작은빨간집모기가 변이된 것으로 겨울철 정화조, 집수정 등 실내에서 물이 고이는 장소에서도 쉽게 발생된다.",
-      "harmfulness": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Culex_Molestus.jpg/375px-Culex_Molestus.jpg",
-      "name": "지하집모기"
-    },
-    "Bug_36": {
-      "breed": 2,
-      "disease": "사상충병",
-      "eradication": "\"<환경> - 모기장/방충망을 모든 창문에 설치하여 모기가 건물에 들어오지 못하도록 하십시오. - 건물 외부에 위치한 사용하지 않는 타이어, 빈 캔과 병, 플라스틱 통 등 물이 고일 수 있는 것들을 제거하여 모기의 번식처가 되지 않도록 하십시오. - 배수구 주변으로 물이 고여있지 않도록 주의하여 주시고, 낙엽과 쓰레기 등으로 막히지 않도록 하십시오. - 화병, 항아리와 같이 물이 항상 담겨있어야 하는 곳은 자주 물을 교체하시고, 모기 유충이 번식하는지 지속 모니터링 하십시오.  <사람> - 밝은 색 옷 입기 - 땀 바로 씻고 음주 피하기 - 살 빼기 - 선풍기 틀기 - 허브 오일 바르기\"",
-      "habit": "\"- 주로 해안가에 서식을 한다. - 유충은 주로 해변가의 고인물에서 서식을 하며, 담수에도 서식이 가능하다. - 야행성이며, 22~3시 사이에 가장 활발하다.\"",
-      "harmfulness": 2,
-      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTExMThfMTc3%2FMDAxNjM3MjQ1NDQ4Nzk2.7VVZPzXcc6KsPwU8HkT-KaiVotwWxjDKwx6wKr7Maxkg.LZtDBHWuywkneKaefCs6VsgNn_Xj8sbGvMou0yQTCdAg.JPEG.dlatkdahr%2Fimg01-01.jpg&type=sc960_832",
-      "name": "토고숲모기"
-    },
-    "Bug_37": {
-      "breed": 2,
-      "disease": "승저증",
-      "eradication": "\"- 파리가 싫어하는 식물을 들여놓자. - 트랩을 만들자. \"",
-      "habit": "\"- 주요 서식처는 동물의 배설물이나, 죽은 사체이다. - 살아있는 동물의 상처나 궤양에 산란 시 승저증(구더기증)을 일으키기도 한다.\"",
-      "harmfulness": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Green_bottle_fly3.jpg/375px-Green_bottle_fly3.jpg",
-      "name": "구리금파리"
-    },
-    "Bug_38": {
-      "breed": 2,
-      "disease": "없음",
-      "eradication": "\"- 손가락으로 쉽게 잡을 수 있지만 직접적으로 자극을 하면 빠르게 날아다니기 때문에 한 번에 잡는 것이 좋다. - 손으로 잡기 찝찝하면 분무기에 샴푸와 물을 섞어서 뿌리면 날개가 녹아버리기 때문에 손쉽게 잡을 수 있다. - 날아다니는 녀석은 전기 파리채 같은 도구로 잡지 않는 게 좋다. - 과도하게 많이 보인다면 살충제를 이용해 박멸하거나, 하수구 등에 펄펄 끓는 뜨거운 물을 주기적으로 부어 알과 유충까지 제거하는 것이 좋다. 특히 여름철에는 여러 곳이 습해지므로 서식지가 늘어나는 나방파리 등 해충에 대한 경각심이 필요하다.\"",
-      "habit": "\"- 주요 서식처는 자연에서는 오염된 하천이나, 연못 등 에서 서식하며, 실내에서는 배수관이나, 기타 물 사용장소에서 발생하며, 유기슬러지를 먹이원으로 한다. - 야행성으로 밤시간에 먹이 활동과 서식지 확산을 한다. - 비행 능력이 떨어져 1회 비행시 1-2m 정도 비행 후 장시간 벽에 앉아서 휴식을 취한다.\"",
-      "harmfulness": 2,
-      "image": "https://dbscthumb-phinf.pstatic.net/2765_000_170/20181217022702993_T9LYDS15L.jpg/268146.jpg?type=m250&wm=N",
-      "name": "나방파리"
-    },
-    "Bug_39": {
-      "breed": 3,
-      "disease": "없음",
-      "eradication": "\"- 파리가 싫어하는 식물을 들여놓자. - 트랩을 만들자. \"",
-      "habit": "\"- 과일이나, 썩은 과육, 상한 음식물 등에 무리 지어 모여들며, 해당 지역에 알을 낳아 번식한다. - 세대 주기가 짧아 환경이 좋을 경우 빠르게 대발생한다. - 약 3-5도의 알코올성분에 모여드는 경향이 있으며, 알코올성분을 이용해 병원성 균의 감염을 줄이기 위함이다.\"",
-      "harmfulness": 1,
-      "image": "https://dbscthumb-phinf.pstatic.net/2765_000_68/20181113192046364_A7UD969H2.jpg/267944.jpg?type=m250&wm=N",
-      "name": "노랑초파리"
-    },
-    "Bug_40": {
-      "breed": 3,
-      "disease": "없음",
-      "eradication": "\"- 파리가 싫어하는 식물을 들여놓자. - 트랩을 만들자. \"",
-      "habit": "\"- 주요 서식처는 썩은 고기와 배설물, 부패한 야채, 배수관의 슬러지, 더러운 걸래, 정화조, 축사 등 습하고 유기물이 많은 장소에서 발생한다. - 일부 종은 땅속에 묻어둔 관의 썩은 사체를 찾아 그 속에서 발생하기도 한다. - 일부 종은 꿀벌류에 기생하기도 한다.\"",
-      "harmfulness": 1,
-      "image": "https://w.namu.la/s/291868bc7cd7a13b7b10723861de6300133ef1b6169b12bd028c0c96b94b193a44ea8e7e33cb6f72506f70e7cf344272ced926e1db80a862edf64c254a3699c97ab562e850e0e6f2131ca27ce8dd51dcc03a940d6af29ed05598d0566792b54a",
-      "name": "벼룩파리"
-    },
-    "Bug_41": {
-      "breed": 2,
-      "disease": "승저증",
-      "eradication": "\"- 파리가 싫어하는 식물을 들여놓자. - 트랩을 만들자. \"",
-      "habit": "\"- 주요 서식처는 죽은 동물의 사체 또는 배설물이며, 일부 종은 나방류의 유충이나, 메뚜기류에 기생한다. - 생식기관이 발달하여, 알을 배 속에 품고 있으며, 부화한 유충을 낳는다. - 살아있는 동물의 상처나 궤양에 산란 시 승저증(구더기증)을 일으키기도 한다.\"",
-      "harmfulness": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sarcophaga_Bercaea2.jpg/375px-Sarcophaga_Bercaea2.jpg",
-      "name": "쉬파리"
-    }
+  "Bug_01": {
+    "breed": "★★☆",
+    "disease": "식중독 알레르기 천식, 비염 ",
+    "eradication": "\"- 청소) 음식이나, 음료를 흘렸을 경우 즉시 치우자. 작은 음식물 부스러기도 개미들을 유인하는 먹이가 된다.  - 차단) 개미가 들어올 수 있는 문이나 창문의 틈을 막자. - 외부) 쓰레기 보관시, 쓰레기는 반드시 밀봉하고 쓰레기통의 뚜껑을 꼭 닫자. - 애완동물이 있는 경우) 애완동물이 바로 먹지 않는 음식은 바로 치우자. - 음식물 보관) 개미가 음식물에 접촉하기 전 어떤 장소에서, 어떤 물질을 묻히고 왔는지 알 수 없기에 음식물을 반드시 밀봉하여 개미가 음식물에 닿지 않도록 하자.\"",
+    "habit": "\"- 열대성 개미이므로 실내에서 생활하며, 실내의 벽이나 천정 틈새, 가구 속, 마루 밑 등 어둡고 따뜻한 곳에서 서식하기를 좋아한다.  - 주로 낮에 활동하나 더운 여름철에는 밤에도 활동한다.  - 식물에 붙으며 피해를 주는 진딧물과 공생관계를 가지기도 한다. \"",
+    "harmfulness": "★★☆",
+    "image": "http://know.nifos.go.kr/mobile/resources//img/background/ant_01.jpg",
+    "name": "곰개미",
+    "product_image": "https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/v2/1/5/7/7/8/6/hRZRT/5227157786_B.jpg",
+    "product_url": "https://search.shopping.naver.com/search/all?query=%EA%B3%B0%EA%B0%9C%EB%AF%B8%ED%87%B4%EC%B9%98"
+  },
+  "Bug_02": {
+    "breed": "★★☆",
+    "disease": "식중독, 알레르기 천식, 비염, 과민성 질환",
+    "eradication": "\"- 청소) 음식이나, 음료를 흘렸을 경우 즉시 치우자. 작은 음식물 부스러기도 개미들을 유인하는 먹이가 된다.  - 차단) 개미가 들어올 수 있는 문이나 창문의 틈을 막자. - 외부) 쓰레기 보관시, 쓰레기는 반드시 밀봉하고 쓰레기통의 뚜껑을 꼭 닫자. - 애완동물이 있는 경우) 애완동물이 바로 먹지 않는 음식은 바로 치우자. - 음식물 보관) 개미가 음식물에 접촉하기 전 어떤 장소에서, 어떤 물질을 묻히고 왔는지 알 수 없기에 음식물을 반드시 밀봉하여 개미가 음식물에 닿지 않도록 하자.\"",
+    "habit": "\"- 생활환경은 음식물과 물이 있는 따뜻(27~30℃)하고 습도가 높은(80%) 곳을 선호한다. - 잡식성으로 여러가지 먹이를 섭취하나 육식성 개미로 고기를 제일 좋아하고 냄새가 강한 오징어 등의 건어물을 좋아한다. \"",
+    "harmfulness": "★★★",
+    "image": "https://dbscthumb-phinf.pstatic.net/2765_000_52/20181014210849365_SYOR7P0V4.jpg/268148.jpg?type=m250&wm=N",
+    "name": "애집개미"
+  },
+  "Bug_03": {
+    "breed": "★★☆",
+    "disease": "식중독, 알레르기 천식, 비염, 아토피",
+    "eradication": "\"- 청소) 음식이나, 음료를 흘렸을 경우 즉시 치우자. 작은 음식물 부스러기도 개미들을 유인하는 먹이가 된다.  - 차단) 개미가 들어올 수 있는 문이나 창문의 틈을 막자. - 외부) 쓰레기 보관시, 쓰레기는 반드시 밀봉하고 쓰레기통의 뚜껑을 꼭 닫자. - 애완동물이 있는 경우) 애완동물이 바로 먹지 않는 음식은 바로 치우자. - 음식물 보관) 개미가 음식물에 접촉하기 전 어떤 장소에서, 어떤 물질을 묻히고 왔는지 알 수 없기에 음식물을 반드시 밀봉하여 개미가 음식물에 닿지 않도록 하자. - 장소) 주기적인 환기 및 습도 조절과 개수대, 욕조, 화장실, 화분, 음식물 쓰레기 수분제거로 집안 내부의 환경 개선을 한다.\"",
+    "habit": "\"- 자연계에서 진딧물의 당성분이 많은 배설물을 선호한다. - 가정의 경우 초콜릿, 설탕 등 당 성분을 좋아하며, 액체 상태의 먹이를 선호한다. - 맛이 비슷한 경우 보다 연한 색의 먹이를 선호한다. - 따뜻하고 습한 곳을 좋아하여 봄, 가을철에 물을 찾아 실내로 침입한다.\"",
+    "harmfulness": "★★★",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDAxMDZfMTQy%2FMDAxNTc4Mjc0ODE4MDA5.lAC-MP3r7HpgulAuU7N3iwVB6yMFdHUHgqqcIBL4NQUg.VJc3StQqZJ0sAfiMAzUl9IXcwoCwn5_eG4T97TI4CxUg.JPEG.kalkom%2F1.jpg&type=a340",
+    "name": "유령개미"
+  },
+  "Bug_04": {
+    "breed": "★★☆",
+    "disease": "없음",
+    "eradication": "\"- 청소) 음식이나, 음료를 흘렸을 경우 즉시 치우자. 작은 음식물 부스러기도 개미들을 유인하는 먹이가 된다.  - 차단) 개미가 들어올 수 있는 문이나 창문의 틈을 막자. - 외부) 쓰레기 보관시, 쓰레기는 반드시 밀봉하고 쓰레기통의 뚜껑을 꼭 닫자. - 애완동물이 있는 경우) 애완동물이 바로 먹지 않는 음식은 바로 치우자. - 음식물 보관) 개미가 음식물에 접촉하기 전 어떤 장소에서, 어떤 물질을 묻히고 왔는지 알 수 없기에 음식물을 반드시 밀봉하여 개미가 음식물에 닿지 않도록 하자.\"",
+    "habit": "\"- 진딧물의 감로와 식물의 꿀에 모이고 작은 곤충이나 동물들을 사냥한다.  - 인가 주변에서 작은 곤충과 같은 동물을 사냥하며, 버려진 쓰레기를 먹기도 한다. - 주위 환경이 변화하여 위험을 감지할 경우 확산하여 여러 구역에 서식처를 만든다. - 주간에 먹이 활동을 하며, 야간에는 서식처에 모여 생활한다. - 3~11월에 일개미들이 활동하며, 여러 마리의 여왕개미를 중심으로 일개미가 함께 군체를 이루고 사는 '복수 여왕제' 사회구조를 지니고 있다. \"",
+    "harmfulness": "★☆☆",
+    "image": "https://dbscthumb-phinf.pstatic.net/2765_000_66/20181112192011037_A4XR89FWQ.jpg/267957.jpg?type=m4500_4500_fst&wm=N",
+    "name": "주름개미"
+  },
+  "Bug_05": {
+    "breed": "★★★",
+    "disease": "알레르기",
+    "eradication": "\"- 화장실, 주방, 배수구를 포함한 습한 장소를 찾아서 뜨거운 물로 청소를 한 후 약품으로 살균, 소독을 해준다. - 하수구 커버(덮개)를 이용해 평소에 덮어둔다. - 침입 경로가 되는 배관을 양파망이나 스타킹 등을 이용해 막는다.   - 음식물 쓰레기는 바로 처리한다.  - 생명력이 강하기에 쓰레기통보다는 변기에 버리는 것이 좋다.  - 물건을 쌓을 때는 벽면과 바닥이 밀착하지 않게 공간을 띄워두는 것이 좋다.  - 종이컵에 맥주를 절반 정도 채우고 과제를 몇 개 정도 넣어 곱등이가 빠지도록하는 트랩 방법을 이용할 수도 있다.  \"",
+    "habit": "\"-  실외지역에 주로 서식하며, 습한 지역을 선호나는 해충으로 곰팡이 및 유기물을 섭식한다.  - 실내로 침입할 경우 습기가 많은 지하실, 보일러실, 화단 및 화분 아래에서 서식한다.  - 주로 집안이나 마루 밑 등 어두운 곳에 숨어 있다가 밤에 활동한다.  \"",
+    "harmfulness": "★★☆",
+    "image": "https://post-phinf.pstatic.net/MjAxNzA0MjhfNzUg/MDAxNDkzMzQyNjE3OTMz.CslVg8LAM6NvTqTkS6MS0HjxDoK75XUrWGGtlY1Bbw4g.V2hvb7cS_re8cE9GacphXNogjqE_h9ztUAVjOkiFYhwg.JPEG/image_9097718951493342344078.jpg?type=w1200",
+    "name": "곱등이"
+  },
+  "Bug_06": {
+    "breed": "★★★",
+    "disease": "알레르기, 피부, 호흡기 질환",
+    "eradication": "\"- 습도 관리(40~50% 유지)를 통해 먼지 없고 습도가 낮으며 공기 좋은 쾌적한 환경을 만들어준다. - 구석구석 눅눅하고 습한 부분들이 없도록 관리해준다.  - 증식하지 않도록 꾸준하고 주기적인 청소를 해준다. - 일광건조로 소독한다.  - 목재가구류의 가구는 벽에서 5cm 이상 간격을 두고 배치한다.  - 계피를 우린 물을 분무기에 넣어 서식할 만한 곳에 뿌려준다. \"",
+    "habit": "\"- 잡식성으로, 주로 미세한 균류나 곰팡이를 먹고 자란다.  - 생존 적정습도는 75~80%정도이다.  - 잡식성으로 균류, 꽃가루, 마른 식물, 곡물가루 또는 곤충의 시체 등이며 실내에서 서식하는 경우는 먼지도 섭취할 수 있다.  - 주요 서식처로는 습한 바닥, 배관틈새, 벽틈새, 화분 주위, 목재가구류, 책이나 종이 사이, 적재된 종이Box, 나무껍질 속, 해묵은 돌 표면, 낙엽 속 등지이다.\"",
+    "harmfulness": "★★☆",
+    "image": "data:image/jpeg;base64,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",
+    "name": "먼지다듬이",
+    "product_image": "https://shopping-phinf.pstatic.net/main_2079311/20793111352.20190902093348.jpg?type=f640",
+    "product_url": "https://search.shopping.naver.com/catalog/20793111352?query=%EB%A1%9C%EB%B3%B4%ED%82%AC&NaPm=ct%3Dlbry9sb4%7Cci%3D4ae9b922c1ea98ebfec0d70e4dd407b8d52d1064%7Ctr%3Dslsl%7Csn%3D95694%7Chk%3D30a85f5169514724682971828a2c7e6bdb28153c"
+  },
+  "Bug_07": {
+    "breed": "★☆☆",
+    "disease": "없음",
+    "eradication": "\"- 집 안의 환기를 자주하여 습도가 너무 높지 않도록 한다.  - 그리마가 좋아하는 세탁실이나 보일러실 등의 균열, 틈을 테이프로 막는다.  - 그리마는 계피와 양파의 향을 싫어하기에 양파와 계피가루를 집안 곳곳 습한 곳을 중심으로 둔다. \"",
+    "habit": "\"- 세면대, 욕실, 지하실, 등의 실내·외의 축축한 곳에 서식처를 두고 서식하며 하수구를 통하여 침입하지는 않는다.  - 작은 곤충, 곤충 유충, 곤충 사체를 먹고 산다.  - 실내에서 축축하고 어두운 곳에서 생활하기를 좋아한다. - 대체로 야행성의 습성을 가지고 있으나 낮에 활동하기도 한다. \"",
+    "harmfulness": "★☆☆",
+    "image": "https://w.namu.la/s/e1d068bb25cb77725216312e9022009dec1323e3f05ced1611adbc8a1d2d77a771bf3337d4447c18d1a1e4dc27df8ea64069bf56d3e4e4c33ae4a3039e755580f408fddb5f94e1aa7d11c0d3bcb8df955c31b08ddd3d87476f3b0deeefe5caab",
+    "name": "그리마"
+  },
+  "Bug_08": {
+    "breed": "★★☆",
+    "disease": "물린 부위 붓고 쓰라림, 염증",
+    "eradication": "\"- 지네는 붕산, 백반을 싫어하기에 습한 환경이나 지네가 나타나기 쉬운 곳에 적당히 뿌려준다.  - 싱크대, 욕실, 하수구처럼 물을 접하는 곳에 50도 이상의 뜨거운 물을 수시로 뿌려준다. \"",
+    "habit": "\"- 삼림의 낙엽, 흙 속, 썩은 나무, 돌밑 등에서 서식하며 육식성으로 곤충이나 거미를 주로 잡아먹는다. \"",
+    "harmfulness": "★★☆",
+    "image": "https://cdn.imweb.me/upload/S201701115875bce29be0d/f2e4471b68e14.png",
+    "name": "지네"
+  },
+  "Bug_09": {
+    "breed": "★★★",
+    "disease": "없음",
+    "eradication": "\"- 실내의 습도를 적절하게 조절한다.  - 배수구, 하수구 등의 유입 경로에 거름망 혹은 방충망을 활용하여 막아준다. - 집 주변 낙엽, 썩은 식물을 치운다. - 집 주변에 락스를 희석한 락스 물을 뿌리면 소독의 효과를 볼 수 있다.  \"",
+    "habit": "\"- 수분을 필요로 하기 때문에 수분이 존재하는 한정된 장소에서 서식한다.  - 수분이 없는 지역에서는 거의 생존이 불가능하며 적정 수분이 되지 않으면 체내 수분 손실을 막기 위해 하루종일 활동하지 않는다.  - 야간에 주로 활동하여 수분 감소를 최소화 한다.  - 서식처는 쓰레기 더미, 돌 밑, 물가, 신문이나 풀 더미, 식물뿌리, 썩은 식물 등이며 실내에 침입한 경우 수분이 있는 지역을 찾지 못하면 2일을 넘기지 못하고 자연 치사하게 된다.\"",
+    "harmfulness": "★☆☆",
+    "image": "https://w.namu.la/s/e06f0a4ec2a4e1fc40c2b0f5967b0d5ff1cd2b2e275ef1a57ccc5088cda9ffaeee112a5259ef437dfeecd7e00960ba2ee1328bf7c952c2ead87b408cf9051a5a69150681cd2228c96c03521c07b2817bba091003d6e8c567c23472f8904105aeeccd3a03a8b80412e286e35ba67dd5ed",
+    "name": "쥐며느리"
+  },
+  "Bug_10": {
+    "breed": "★★☆",
+    "disease": "없음",
+    "eradication": "\"- 곡물이나 가공식품의 보관되는 양이 소량이라면 저온 상태로 보관한다. - 음식물 쓰레기는 완벽하게 밀봉된 상태로 폐기하여 2차 오염을 방지한다. - 미곡류를 보관할 때는 반드시 외부 해충의 침입을 막기 위해 밀폐용기에 보관하며 예방을 위해 낮은 습도의 서늘한 곳에 보관한다.\"",
+    "habit": "\"- 집이나 십료품을 취급하는 곳에서 발견된다.  - 성충은 짧은 거리의 비행이 가능하며, 빛에 유인된다.  - 수분을 함유한 콩, 완두, 견과류 등을 가해한다. \"",
+    "harmfulness": "☆☆☆",
+    "image": "https://w.namu.la/s/8b8eba3a4a37337dcd41285958cefeff3394780f32101d94a7f61acd4c34ad62d60288013dc81ecc7150570f5e5496160d69d6a5f145caa2a2f6aead36602a4fd947d4c2692db81db5d0265dbb339c06c4b9d7b8f1062b6b0ec501095da930dc",
+    "name": "거저리"
+  },
+  "Bug_11": {
+    "breed": "★☆☆",
+    "disease": "가려움증(간지럼증), 알레르기, 아토피, 물린 부위가 빨갛게 부어오르고 진물이 남",
+    "eradication": "\"- 음식물이나 곡물의 경우 밀폐 용기에 넣어 보관한다. - 드라이플라워의 경우 유리병이나 밀폐된 것에 넣어 관리한다.  - 권연벌레가 발견되었다면 번식의 위험성이 있으므로 완전폐기한다.  - 침구류는 세탁 후 햇빛이 잘 드는 곳에 말려준다.  - 습기가 높은 곳은 보일러를 이용해 온도를 높여주며 창문을 열어 환기함으로써 습도를 조절해준다.  - 계피와 감초를 1:1의 비율로 섞어서 차로 우려낸 다음 분무기에 넣어 출범할 곳이나 발견된 곳에 뿌려준다. - 마늘을 갈아 물과 1:1의 비율로 섞어서 뿌려준다.  - 벌레들이 싫어하는 특유의 향인 편백나무(피톤치드)를 설치한다. \"",
+    "habit": "\"-  습한 7월이나 8월 여름 시기에 자주 발견된다. - 낡은 집, 오래된 집에 주로 서식한다. - 눅눅하고 오래된 곡식, 건조한 건어물, 동물사료, 목재, 드라이플라워 등에서 자주 발견된다.  - 사람의 피지를 먹기 위해 침구류에도 서식할 수 있다.  - 쌀, 현미, 콩잎담배, 밀가루, 보리가루, 약재, 잎담배, 저장창고, 베개, 핫팩 등에 서식한다. \"",
+    "harmfulness": "★★☆",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MjVfMzAg%2FMDAxNjY0MDk1MzQwMjA4.FCBHXVJUofkB6hEihQ9mnVFLlv0kzzNIOO9kn7ggXOgg.W2Uuujxd2ycWtD3pKK00-esHZupsr3jGY_ldaJBFQNsg.JPEG.onegunah%2FDSC_6521-2.JPG&type=sc960_832",
+    "name": "권연벌레"
+  },
+  "Bug_12": {
+    "breed": "★★☆",
+    "disease": "없음",
+    "eradication": "\"- 쌀통에 고추, 숯, 계피 등을 넣어둔다.  - 소독용 에틸알콜이나 독한 술을 솜에 충분히 적셔서 밀폐된 살통에 넣어둔다. - 페트병에 담아 햇볕이 들지 않고 바람이 잘 통하는 선선한 곳에 보관한다.\"",
+    "habit": "\"- 쌀을 갉아먹는다.  - 어두운 곳을 좋아하며 햇빛을 피하는 습성이 있다.  - 성충은 기온이 15~16도 정도만 되어도 활발하게 활동한다. \"",
+    "harmfulness": "★★☆",
+    "image": "https://w.namu.la/s/5ffef0b82e8338be2b04c57e81566b632c5476717f66a364a890c271fefeb80b14be57d00b4f7956a320faac28b7f351679f5d504e382624b8520aa6b2a29f45689a2c810b750157cc4161d286493dd9dcc0422ff69870f2bf2978e7eb5d3f3f",
+    "name": "쌀바구미"
+  },
+  "Bug_13": {
+    "breed": 1,
+    "disease": "없음",
+    "eradication": "\"- 환기를 자주 시킨다. - 옷장 안에 제습제를 놓아둔다. - 자주 출몰하거나 있는 모직물을 찾아 건조시킨다. - 창문과 방충망의 틈을 차단하여 외부로붜의 유입을 막는다. - 곡물류는 덮개가 있는 철저히 밀폐된 용기 혹은 냉장고에 보관한다. \"",
+    "habit": "\"- 실내에서는 카펫, 의류(털옷), 동물(곤충)표본, 견, 곡물, 건조한 동물성 물질 등 매우 다양한 동식물질을 먹는다.  - 식료품 보관장소, 부엌, 창고에서 발견된다.  - 습한 환경을 좋아한다. \"",
+    "harmfulness": "★☆☆",
+    "image": "https://mblogthumb-phinf.pstatic.net/20140918_129/woorieco_1411006318954R9o8q_JPEG/IMG_2218_1.jpg?type=w2",
+    "name": "애알락수시렁이"
+  },
+  "Bug_14": {
+    "breed": 1,
+    "disease": "없음",
+    "eradication": "\"- 곡물류는 밀폐하고 저온 보관을 한다. - 곡물의 오염이 의심된다면 그늘진 곳에 신문지를 깔고 곡물을 모두 꺼내 건조한 후, 신문지 외곽으로 박스 테이프를 양면으로 붙여 빠져나가는 성충이나 유충을 잡는다. - 뭉쳐진 곡물 덩어리는 발견하는 즉시 제거한다. - 벽에 틈새가 없는지 살피고 실리콘으로 처리하여 추가 발생을 막는다.\"",
+    "habit": "\"- 곡류에서 많이 발생하며 새로 들어온 가구나 침구, 장농, 벽지 틈에서 자주 보인다.  - 창고나 가구공장 등에서 서식한다. \"",
+    "harmfulness": "★☆☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Oryzaephilus_surinamensis_%28Linn%C3%A9%2C_1758%29_%2814438947353%29.png",
+    "name": "톱가슴머리대장"
+  },
+  "Bug_15": {
+    "breed": "★★★",
+    "disease": "아토피, 알레르기, 천식, 비염, 가려움증",
+    "eradication": "\"- 죽는 순간에도 알을 까기에 쓰레기통에 버리지 말자. - 음식물 음식물을 방치하지 않기) 물기가 없는 음식을 비닐봉지나 밀폐용기에 틈새 없이 밀봉하여 보관하자. - 음식 부스러기 청소) 음식을 섭취한 공간 및 준비한 공간, 사용한 소형가전제품에 떨어진 음식 부스러기를 청소하고 흘린 음료를 닦자. 쓰레기는 매일 비우고, 쓰레기통의 뚜껑을 닫아놓는다.  - 정리정돈) 오래된 신문, 잡지, 폐박스는 처분하고, 바퀴벌레가 숨기 좋은 찬장이나 바닥에 사용하지 않는 물품들을 정리하자. - 침입 및 서식처 봉쇄) 문, 파이프 틈새, 갈라진 틈 사이를 메워서 바퀴벌레가 사업장으로 침입하는 것을 차단하고, 서식처로 사용되지 못하도록 막자. 이후 바퀴벌레 전문업체를 통한 정기적인 검사를 실시하는 것이 좋다.\"",
+    "habit": "\"- 나무 그루터기, 오래 된 나무 밑둥에서도 발견되며, 돌 밑, 잔디 하단부, 숲 덤불 밑, 방치된 물건 하단부에서 서식한다. - 집단으로 생활하며 동료의 사체나 배설물로부터 사람의 타액 등 먹지 못하는 것이 없는 잡식성이다.  - 야행성이며 좁은 틈새에 몸이 눌리는 것을 좋아해 낮에는 주로 서식처에 숨어 지낸다. \"",
+    "harmfulness": "★★☆",
+    "image": "https://w.namu.la/s/feac03d495d5eeb371a320067132d581ce8e1d38f7b5ee92794fd08bf13f1a54dcf566d1ec9d1feb9eb2bf750d9203b26ef6ce7070de7fb39912a1b1bb92dc26776cfa91843053e1220d282ad35286ae9feb543e7fb6ce8c3a551935900a804f",
+    "name": "경도바퀴"
+  },
+  "Bug_16": {
+    "breed": "★★★",
+    "disease": "아토피, 알레르기, 천식, 비염, 가려움증",
+    "eradication": "\"- 죽는 순간에도 알을 까기에 쓰레기통에 버리지 말자. - 음식물 음식물을 방치하지 않기) 물기가 없는 음식을 비닐봉지나 밀폐용기에 틈새 없이 밀봉하여 보관하자. - 음식 부스러기 청소) 음식을 섭취한 공간 및 준비한 공간, 사용한 소형가전제품에 떨어진 음식 부스러기를 청소하고 흘린 음료를 닦자. 쓰레기는 매일 비우고, 쓰레기통의 뚜껑을 닫아놓는다.  - 정리정돈) 오래된 신문, 잡지, 폐박스는 처분하고, 바퀴벌레가 숨기 좋은 찬장이나 바닥에 사용하지 않는 물품들을 정리하자. - 침입 및 서식처 봉쇄) 문, 파이프 틈새, 갈라진 틈 사이를 메워서 바퀴벌레가 사업장으로 침입하는 것을 차단하고, 서식처로 사용되지 못하도록 막자. 이후 바퀴벌레 전문업체를 통한 정기적인 검사를 실시하는 것이 좋다.\"",
+    "habit": "\"- 활동 최적온도는 30℃이며, 20℃이하에서는 활동이 저하된다. - 야행성으로 저녁부터 이른 새벽 시간에 주로 활동한다. - 날개를 가지고 있으나, 비행을 하지 않으며, 낙하 시 활공정도로만 사용된다. - 어둡고, 좁은 틈을 좋아하며, 습한 장소를 선호한다. - 일반적으로 부엌과 화장실에서 번식하며, 식품과 물이 있는 곳과 가까운 1.5m미만인 곳을 선호한다.  - 배설물에 집합페로몬이 섞여있어 배설물이 있는 인근에 모여 지내며 배설한다. - 집단으로 생활하며 동료의 사체나 배설물로부터 사람의 타액 등 먹지 못하는 것이 없는 잡식성이다. \"",
+    "harmfulness": "★★☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Blattodea._Cascuda._Santiago_de_Compostela_1.jpg/375px-Blattodea._Cascuda._Santiago_de_Compostela_1.jpg",
+    "name": "독일바퀴"
+  },
+  "Bug_17": {
+    "breed": "★★★",
+    "disease": "아토피, 알레르기, 천식, 비염, 가려움증",
+    "eradication": "\"- 죽는 순간에도 알을 까기에 쓰레기통에 버리지 말자. - 음식물 음식물을 방치하지 않기) 물기가 없는 음식을 비닐봉지나 밀폐용기에 틈새 없이 밀봉하여 보관하자. - 음식 부스러기 청소) 음식을 섭취한 공간 및 준비한 공간, 사용한 소형가전제품에 떨어진 음식 부스러기를 청소하고 흘린 음료를 닦자. 쓰레기는 매일 비우고, 쓰레기통의 뚜껑을 닫아놓는다.  - 정리정돈) 오래된 신문, 잡지, 폐박스는 처분하고, 바퀴벌레가 숨기 좋은 찬장이나 바닥에 사용하지 않는 물품들을 정리하자. - 침입 및 서식처 봉쇄) 문, 파이프 틈새, 갈라진 틈 사이를 메워서 바퀴벌레가 사업장으로 침입하는 것을 차단하고, 서식처로 사용되지 못하도록 막자. 이후 바퀴벌레 전문업체를 통한 정기적인 검사를 실시하는 것이 좋다.\"",
+    "habit": "\"- 특이하게 저온에 적응한 종으로써 세계에서 가장 북쪽에 서식하는 종이다. - 잡식성이며, 야행성이다. - 발달된 날개를 가지고 있어 장거리 비행이 가능하다. - 알주머니를 생성하게 되면, 안전한 곳에 부착해둔다. - 좁은 틈새에 몸이 눌리는 것을 좋아해 낮에는 주로 서식처에 숨어 지낸다.  - 집의 옥상이나 화분, 화단, 텃밭에 있을 가능성이 높다.  - 오래된 주택이나 빌라에서 서식하며, 가정집에 쉽게 침투하지 못하나 한 번 침투하면 오랜기간동안 머무는 습성이 있다. \"",
+    "harmfulness": "★★☆",
+    "image": "https://w.namu.la/s/9ee350d520560d8f17dc52e7d4443222c23ef948df388ba2e3c67041788f4f3496dd9f2ca8e700b8181233925d94557674523a273e48922a931cb2cd142e5fb0f56170e7a9fa68ab5a206de91a94d20fba6ee49d7cdea4976818dfc3bffd0550",
+    "name": "먹바퀴"
+  },
+  "Bug_18": {
+    "breed": "★★★",
+    "disease": "아토피, 알레르기, 천식, 비염, 가려움증",
+    "eradication": "\"- 죽는 순간에도 알을 까기에 쓰레기통에 버리지 말자. - 음식물 음식물을 방치하지 않기) 물기가 없는 음식을 비닐봉지나 밀폐용기에 틈새 없이 밀봉하여 보관하자. - 음식 부스러기 청소) 음식을 섭취한 공간 및 준비한 공간, 사용한 소형가전제품에 떨어진 음식 부스러기를 청소하고 흘린 음료를 닦자. 쓰레기는 매일 비우고, 쓰레기통의 뚜껑을 닫아놓는다.  - 정리정돈) 오래된 신문, 잡지, 폐박스는 처분하고, 바퀴벌레가 숨기 좋은 찬장이나 바닥에 사용하지 않는 물품들을 정리하자. - 침입 및 서식처 봉쇄) 문, 파이프 틈새, 갈라진 틈 사이를 메워서 바퀴벌레가 사업장으로 침입하는 것을 차단하고, 서식처로 사용되지 못하도록 막자. 이후 바퀴벌레 전문업체를 통한 정기적인 검사를 실시하는 것이 좋다.\"",
+    "habit": "\"- 활동 최적온도는 29℃이며, 23~33℃ 범위에서 정상 활동을 하고 20℃이하에서 활동이 저하된다. - 야행성으로 빛을 싫어한다. - 발달된 날개를 가지고 있어 장거리 비행이 가능하다. - 하수관, 지하 비트 등 실 외에서 서식하며, 실내의 경우 보일러실과 같은 따뜻하고 물기가 많은 곳에 서식한다. - 집단으로 생활하며 동료의 사체나 배설물로부터 사람의 타액 등 먹지 못하는 것이 없는 잡식성이다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/American_cockroach_8-15-2009.jpg/375px-American_cockroach_8-15-2009.jpg",
+    "name": "미국바퀴"
+  },
+  "Bug_19": {
+    "breed": "★★★",
+    "disease": "아토피, 알레르기, 천식, 비염, 가려움증",
+    "eradication": "\"- 죽는 순간에도 알을 까기에 쓰레기통에 버리지 말자. - 음식물 음식물을 방치하지 않기) 물기가 없는 음식을 비닐봉지나 밀폐용기에 틈새 없이 밀봉하여 보관하자. - 음식 부스러기 청소) 음식을 섭취한 공간 및 준비한 공간, 사용한 소형가전제품에 떨어진 음식 부스러기를 청소하고 흘린 음료를 닦자. 쓰레기는 매일 비우고, 쓰레기통의 뚜껑을 닫아놓는다.  - 정리정돈) 오래된 신문, 잡지, 폐박스는 처분하고, 바퀴벌레가 숨기 좋은 찬장이나 바닥에 사용하지 않는 물품들을 정리하자. - 침입 및 서식처 봉쇄) 문, 파이프 틈새, 갈라진 틈 사이를 메워서 바퀴벌레가 사업장으로 침입하는 것을 차단하고, 서식처로 사용되지 못하도록 막자. 이후 바퀴벌레 전문업체를 통한 정기적인 검사를 실시하는 것이 좋다.\"",
+    "habit": "\"- 특이하게 저온에 적응한 종으로써 세계에서 가장 북쪽에 서식하는 종이다. - 인가의 경우 하수관이나, 보일러실, 건물 주위 텃밭, 옥상 정원, 화분 주위에서 발견되며, 인가 주변에 위치한 숲에서도 서식하여, 반옥외성 바퀴이다. - 옥외에서 서식하는 바퀴의 경우 겨울철 동면을 가지는 것으로 추정된다. - 수컷의 경우 온전한 날개를 가지고 있으나, 비행을 하지 않으며, 낙하 시 활공정도로만 사용된다. - 집단으로 생활하며 동료의 사체나 배설물로부터 사람의 타액 등 먹지 못하는 것이 없는 잡식성이다. - 야행성이며 좁은 틈새에 몸이 눌리는 것을 좋아해 낮에는 주로 서식처에 숨어 지낸다. \"",
+    "harmfulness": "★★☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dead-cockroach-inJapan-june1-2015.jpg/375px-Dead-cockroach-inJapan-june1-2015.jpg",
+    "name": "일본바퀴"
+  },
+  "Bug_20": {
+    "breed": "★★★",
+    "disease": "피부 손상과 2차 감염",
+    "eradication": "\"- 빛이 들어오지 않는 이음새 혹은 박스 스프링과 프레임이 닿는 부분에 많기에 침대에서 아지트를 발견했다면 해당 프레임과 스프링은 무조건 버린다(단, 금속이면 물로 깨끗이 씻고 햇빛이 강하게 드는 실외에 두면 된다). - 침대를 분해해 벽에 대고 세워두어 빈대가 있는지 확인하고 빈대를 없애기 위해 매트리스 아래쪽의 천을 걷어내 스프링을 수시로 살펴보자.  - 매트리스에서 빈대를 발견했다면 매트리스 자체를 버리거나 빈대 방지용 매트리스 커버를 구입하여 매트리스를 넣고 빈대가 빠져나가지 못하게 하여 빈대를 굶겨 죽이는 방법이 있다. - 빈대가 발견된 물건들을 세탁하거나 버린다.  - 증기를 구석구석 이음새마다 확실하게 뿌려줘 빈대와 빈대알을 제거한다.  - 빈대 서식지 제거를 위해 벽의 틈새를 석고로 채우고 너덜거리는 벽지에 접착제를 발라 다시 벽에 붙인다. - 짐은 바닥에 내려놓지 않는다. \"",
+    "habit": "\"- 주로 침대의 매트리스나 다리에서 사는 것을 선호하며 침대 헤드 및 침대, 가구나 침실 벽의 틈 혹은 벽지 틈, 액자 뒤 등에 숨어 있다가 야간에 흡혈활동을 한다. - 저녁보다는 이른 새벽에 더 활발하게 움직인다.\"",
+    "harmfulness": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cimex_lectularius.jpg/375px-Cimex_lectularius.jpg",
+    "name": "빈대"
+  },
+  "Bug_21": {
+    "breed": "★☆☆",
+    "disease": "신증후군출혈열 - 증상 : 발열, 출혈소견, 신부전이 주요한 3대 증상이고, 오한, 두통, 요통, 근육통, 안면홍조, 결막충혈, 겨드랑이와 연구개 점상출혈, 특징적으로 양측 늑척추각의 압통 등이 관찰되기도 하며 심한 경우 의식저하나 경련이 발생하기도 한다.  렙토스피라증 - 증상: 갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈",
+    "eradication": "\"음식) - 음식은 뚜껑을 지닌 금속 또는 유리 용기에 보관하자 - 애완동물 사료와 새 모이 조각을 청소하시고 애완동물 사료를 밀폐용기에 보관하자 - 될수 있으면 바닥 위에 보관하자. 정리정돈) - 건물 주변을 깔끔하게 정리하자 - 물건 더미가 적을수록 숨을 장소가 적다는 뜻이다. - 실외의 쓰레기 봉투는 딱 맞는 뚜껑이 있는 금속 쓰레기통에 넣어서 쥐들이 내용물을 먹지 못하도록 하십시오. - 정원에 쓰레기가 없도록 하자. 만약 퇴비 더미가 있는 경우에는 음식물 찌꺼기를 포함시키지 않도록 하자. 유기 음식물 찌꺼기에 쥐들이 몰려들 수 있다.\"",
+    "habit": "\"- 산이나 들의 습하지 않은 곳에 복잡한 굴을 파고 서식한다. - 화본과 식물의 종자를 주로 먹는데, 식량을 저장하지 않아 겨울에도 먹이를 찾아 헤맨다. 복잡한 굴을 뚫고 지하 40cm 정도의 깊이에 수수나 조의 잎 또는 화본과·사초과 식물의 잎을 엉성하게 잘라 보금자리를 만든다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mysz_polna2.jpg/375px-Mysz_polna2.jpg",
+    "name": "등줄쥐"
+  },
+  "Bug_22": {
+    "breed": "★☆☆",
+    "disease": "\"신증후군출혈열 - 증상 : 발열, 출혈소견, 신부전이 주요한 3대 증상이고, 오한, 두통, 요통, 근육통, 안면홍조, 결막충혈, 겨드랑이와 연구개 점상출혈, 특징적으로 양측 늑척추각의 압통 등이 관찰되기도 하며 심한 경우 의식저하나 경련이 발생하기도 한다.  렙토스피라증 - 증상: 갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈\"",
+    "eradication": "\"음식) - 음식은 뚜껑을 지닌 금속 또는 유리 용기에 보관하자 - 애완동물 사료와 새 모이 조각을 청소하시고 애완동물 사료를 밀폐용기에 보관하자 - 될수 있으면 바닥 위에 보관하자. 정리정돈) - 건물 주변을 깔끔하게 정리하자 - 물건 더미가 적을수록 숨을 장소가 적다는 뜻이다. - 실외의 쓰레기 봉투는 딱 맞는 뚜껑이 있는 금속 쓰레기통에 넣어서 쥐들이 내용물을 먹지 못하도록 하십시오. - 정원에 쓰레기가 없도록 하자. 만약 퇴비 더미가 있는 경우에는 음식물 찌꺼기를 포함시키지 않도록 하자. 유기 음식물 찌꺼기에 쥐들이 몰려들 수 있다.\"",
+    "habit": "\"- 야행성 동물이다. - 계절에 따라 털갈이를 한다. - 온대 낙엽활엽수림·숲 속의 습지·건조한 목초지·강가의 관목림·농경지·산쑥이 무성한 길가 등에 서식한다. - 주요 먹이는 작은 곤충이나 지렁이 같은 소형 무척추동물이다. - 워낙에 소형 생물이다 보니 신진대사가 빨라서 24시간만 굶어도 죽는다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://w.namu.la/s/cf4dea0f79e4dd39c9dbe4f721ce466f93f6912057fe784cfbb7be0f5d3de49bfe9983c2058f9ca15dc97fc0b0e8b34b80135ba083f32cd75496c68d36e753613b7845532ba0a518f3fb82dda303f53d5d34c10cc6967e3989c0fe7b13c59a4a3359bb6b6cdb65de956c81f6f98fd2d9",
+    "name": "땃쥐"
+  },
+  "Bug_23": {
+    "breed": "★☆☆",
+    "disease": "\"신증후군출혈열 - 증상 : 발열, 출혈소견, 신부전이 주요한 3대 증상이고, 오한, 두통, 요통, 근육통, 안면홍조, 결막충혈, 겨드랑이와 연구개 점상출혈, 특징적으로 양측 늑척추각의 압통 등이 관찰되기도 하며 심한 경우 의식저하나 경련이 발생하기도 한다.  렙토스피라증 - 증상: 갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈\"",
+    "eradication": "\"- 식품안전) 생쥐가 음식으로 유인되지 않도록 하자. 정기적으로 난로, 냉장고와 찬장 아래를 청소하자. - 문) 문 아래에 솔 (또는 브러시)를 달아서 특히 문이 꽉 닫히지 않는 오래된 건물에서 생쥐가 들어오지 못하도록 하자. - 배관) 기존 또는 신규 파이프를 거친 등급의 스테인레스 수세미와 코킹(유연한 밀봉재)으로 막자. - 구멍) 구멍은 대개 외벽에 케이블과 파이프가 통과하기 위해 만들어지며, 오래된 배관 구멍이 밀봉되었는지 확인하자. 5mm 이상의 구멍에는 생쥐가 들어갈 수 있는데, 그 이유는 생쥐의 턱이 이렇게 좁은 공간으로 들어가 건물 안으로 들어갈 수 있는 큰 구멍을 재빨리 갉아내기 때문이다. - 통풍 벽돌과 환기구) 이들은 특히 손상된 경우에는 아연 도금된 촘촘한 철망으로 막도록 하자. - 처마) 손상된 지붕을 수리하고 철망을 사용해 틈새를 밀봉하도록 하자. - 식물) 집에 근접한 가지를 치도록 하시고 가능한 경우 건물 측면으로 자라는 식물들을 기피하자. 생쥐들은 덩굴, 관목 또는 돌출된 가지를 이용하여 지붕으로 올라갈 수 있다. 벽에 가까이 있는 무성한 식물은 생쥐에게 피난처와 잠재적인 서식지를 제공할 수 있다. \"",
+    "habit": "\"- 야간에 주로 활동을 하는데 23:00∼24:00에 가장 활발하다. - 전방 15cm 이상을 볼 수 없을 정도로 시력이 미약하고 색맹이나 후각, 미각, 청각, 촉각은 매우 민감하고 뛰어나다. - 새로운 음식 및 물체에 대하여 호기심이 많으며 나무나 벽 등에 잘 기어 오를 수 있고 수영도 할 수 있다. - 실내, 실외 어디든지 먹이와 가까운 곳에 둥지를 만들고 생활하는데 행동반경은 3 ~ 6 m 정도로 매우 국한적이다. - 잡식성이나 곡물의 낟알을 하루 3g 섭취하며 신선하고 깨끗한 음식을 좋아한다. 수분은 하루에1.5㎖ 섭취하지만 - 음식내의 수분 섭취로 거의 물이 없는 곳에서도 생존이 가능하다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/House_mouse.jpg",
+    "name": "생쥐"
+  },
+  "Bug_24": {
+    "breed": "★☆☆",
+    "disease": "\"신증후군출혈열 - 증상 : 발열, 출혈소견, 신부전이 주요한 3대 증상이고, 오한, 두통, 요통, 근육통, 안면홍조, 결막충혈, 겨드랑이와 연구개 점상출혈, 특징적으로 양측 늑척추각의 압통 등이 관찰되기도 하며 심한 경우 의식저하나 경련이 발생하기도 한다.  렙토스피라증 - 증상: 갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈\"",
+    "eradication": "\"음식) - 음식은 뚜껑을 지닌 금속 또는 유리 용기에 보관하자 - 애완동물 사료와 새 모이 조각을 청소하시고 애완동물 사료를 밀폐용기에 보관하자 - 될수 있으면 바닥 위에 보관하자. 정리정돈) - 건물 주변을 깔끔하게 정리하자 - 물건 더미가 적을수록 숨을 장소가 적다는 뜻이다. - 실외의 쓰레기 봉투는 딱 맞는 뚜껑이 있는 금속 쓰레기통에 넣어서 쥐들이 내용물을 먹지 못하도록 하십시오. - 정원에 쓰레기가 없도록 하자. 만약 퇴비 더미가 있는 경우에는 음식물 찌꺼기를 포함시키지 않도록 하자. 유기 음식물 찌꺼기에 쥐들이 몰려들 수 있다.\"",
+    "habit": "\"- 잡식성이나, 육식을 선호한다. - 수영에 능숙하여, 물이 있는 배수관을 타고 이동하기도 한다. - 땅속에 굴을 만들어 서식처를 두는 경우가 많다. - 의심이 많고 새로운 것에 경계심이 높다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://w.namu.la/s/440367838951d06991d6f4a8d4d46ea431fbb6cdd7cd3fdd499a6383d19b69bf66bbc14a7315a904f15ff5229f67b086c3be5f677e4803e173b838c8d058b94d08b7a670402cced6c25bbd460aa6328b1a3b19f429065e796289a9bafcfa4fad",
+    "name": "시궁쥐"
+  },
+  "Bug_25": {
+    "breed": "★☆☆",
+    "disease": "\"신증후군출혈열 - 증상 : 발열, 출혈소견, 신부전이 주요한 3대 증상이고, 오한, 두통, 요통, 근육통, 안면홍조, 결막충혈, 겨드랑이와 연구개 점상출혈, 특징적으로 양측 늑척추각의 압통 등이 관찰되기도 하며 심한 경우 의식저하나 경련이 발생하기도 한다.  렙토스피라증 - 증상: 갑자기 시작되는 발열과 두통, 오한, 심한 근육통(특히 종아리와 허벅지), 안결막 충혈\"",
+    "eradication": "\"음식) - 음식은 뚜껑을 지닌 금속 또는 유리 용기에 보관하자 - 애완동물 사료와 새 모이 조각을 청소하시고 애완동물 사료를 밀폐용기에 보관하자 - 될수 있으면 바닥 위에 보관하자. 정리정돈) - 건물 주변을 깔끔하게 정리하자 - 물건 더미가 적을수록 숨을 장소가 적다는 뜻이다. - 실외의 쓰레기 봉투는 딱 맞는 뚜껑이 있는 금속 쓰레기통에 넣어서 쥐들이 내용물을 먹지 못하도록 하십시오. - 정원에 쓰레기가 없도록 하자. 만약 퇴비 더미가 있는 경우에는 음식물 찌꺼기를 포함시키지 않도록 하자. 유기 음식물 찌꺼기에 쥐들이 몰려들 수 있다.\"",
+    "habit": "\"- 잡식성이나, 과일과 견과류등을 먹는 것을 선호한다. - 긴 꼬리를 이용하여 높은 곳에서도 안정적으로 균형을 잡으며 돌아다닌다. - 땅 보다는 높은 천장, 지붕 등 높은 위치에 둥지를 만들어 서식처로 한다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://cdn.pixabay.com/photo/2015/09/28/00/50/roof-rat-961499_960_720.jpg",
+    "name": "지붕쥐"
+  },
+  "Bug_26": {
+    "breed": "★★★",
+    "disease": "없음",
+    "eradication": "\"<환경> - 습기 제거 : 좀벌레는 고온다습한 환경을 좋아하므로 제습기나 에어컨의 제습기능을 이용해 집의 습기를 제거해 서식환경을 없애자. - 틈새 제거 : 어두운 틈새에 숨어지내다 야간에 나오는 좀벌레의 특성상 집안의 틈새는 좀벌레가 숨기에 아주 좋은 장소이다. 위치에 따라 실리콘등의 제품으로 꼼꼼이 막아주도록 하자. 몰딩 틈새나 부엌 화장실의 작은 틈새들을 꼼꼼이 막아주자. - 좀벌레 먹이가 될만한 것들 치우기 : 종이로 된 책이나 상자등은 바닥보다는 선반 등에 올려 보관하는 것이 좋다. 천연섬유의 옷감 등을 나무 옷장이나, 지하실 등 어두운곳에 보관하고 있다면 비닐봉투로 감싸 보관하는 것도 방법이다. 청소기를 자주 돌려 바닥에 좀벌레의 먹이가 될 만한 것들을 제거하고 카펫이나 몰딩 등에 있을 법한 좀벌레 알도 함께 제거하자.\"",
+    "habit": "\"- 야행성이다. 낮에는 숨어 지내다가 밤에 먹이활동을 한다. - 오랫동안 쌓아둔 옷이나 서랍, 장롱 등 습하고 어두운 곳에서 쉽게 발견된다. - 종이나 풀의 탄수화물, 사람의 각질, 먼지, 그리고 옷 등의 식물성 섬유를 주로 섭취한다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ctenolepisma_longicaudata_%28long-tailed_silverfish%29%2C_Mook%2C_the_Netherlands.JPG/375px-Ctenolepisma_longicaudata_%28long-tailed_silverfish%29%2C_Mook%2C_the_Netherlands.JPG",
+    "name": "좀벌레"
+  },
+  "Bug_27": {
+    "breed": "★★☆",
+    "disease": "오이모자이크바이러스, 수박모자이크바이러스, 호박누른모자이크바이러스",
+    "eradication": "- 집에서 기르는 화초에 귀찮은 진딧물이 생겼을 때 방제하는 진딧물방제제로는 잘 알려진 우유와 흑설탕 그리고 식초 등이 있다.",
+    "habit": "\"- 바늘 같은 입으로 식물즙을 빨아 먹고 산다. - 주로 농작물 지대에서 서식하는 진딧물은 놀라운 번식력과 식물즙을 빨아 먹고 병을 옮기는 해충으로 분류한다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://w.namu.la/s/1ff5eb8765a994fe2c1e545f9b24743374fa7bdc2c5f43c80cf64b6253e176babc537c308671f52a71f6c13081eed18b97f9ffabd240ef9ce5e10be1414799461cc910ada81be704a515cc408eb5118f464e2f5c9c11b318d73abeab764a91fe",
+    "name": "진딧물"
+  },
+  "Bug_28": {
+    "breed": "★★☆",
+    "disease": "없음",
+    "eradication": "\"- 방충망이나 밖에서 유입될 수 있는 구멍을 막는다. - 창늘의 물구멍을 막는다. - 습기 관리를 해준다. - 락스 청소가 가능한 곳은 수시로 락스 청소를 해준다.\"",
+    "habit": "\"- 작은 곤충이나 썩은 낙엽, 부식질 등을 먹는 잡식성이다. - 야행성이라 밤중에 벽의 가장자리를 따라 걸어 다니며 낮에는 쉴 만한 곳을 찾아 중력의 반대방향으로 후미진 구석을 파고든다. - 산에도 살지만, 가끔 사람 집에도 들어와 산다. 주로 화장실 배관 씽크대 배고나주변, 방이나 거실 장판밑, 화분밑 등 습하고 어두운 곳에서 서식을 한다.\"",
+    "harmfulness": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Forficula_auricularia.jpg/375px-Forficula_auricularia.jpg",
+    "name": "집게벌레"
+  },
+  "Bug_29": {
+    "breed": "★☆☆",
+    "disease": "없음",
+    "eradication": "\"깔따구는 보이는 성충들을 죽이는 것도 중요하지만 그 이동 경로를 차단하거나 초기 유입을 막는 것이 가장 현명하다.  - 건물 외부에 위치한 사용하지 않는 타이어, 빈 캔과 병, 플라스틱 통 등 물이 고일 수 있는 것들을 제거하고 깔따구의 번식처가 되지 않도록 하자.  - 배수구 주변으로 물이 고여있지 않도록 주의하고, 낙엽과 쓰레기 등으로 막히지 않도록 하자.  - 화병, 항아리와 같이 물이 항상 담겨있어야 하는 곳은 자주 물을 교체하고, 깔따구 유충이 번식하는지 지속 모니터링 하자.\"",
+    "habit": "\"- 성충은 구기가 퇴화하여 흡혈 등과 같은 먹이활동을 하지 않는다. - 야행성으로 밝은 빛에 유인되어 모여든다. - 비가 온 후 대발생하며, 밝은 등불 아래에서 단체 교미 군무를 한다.\"",
+    "harmfulness": "★☆☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Chironomus_plumosus01.jpg/375px-Chironomus_plumosus01.jpg",
+    "name": "깔따구"
+  },
+  "Bug_30": {
+    "breed": "★★★",
+    "disease": "없음",
+    "eradication": "\"식품의 원료를 서늘한 곳에 보관함으로써 나방 유충의 활동과, 성충으로 우화하는 것을 막을 수 있다.  원료를 가능한 소량씩 구입하고 보관함으로써 큰 피해를 예방할 수 있다.  유충이 이미 발생된 원료와 식품은 다른 제품들과 분리하여 보관하고 폐기하는 것이 좋다.  식품의 분진이 쌓이기 쉬운 사업장 내 설비물 틈새와 환기구 등을 주기적으로 청소하여야 한다.  나방 성충이 발견되었다면 성충을 포획할 수 있는 페로몬트랩 등을 이용할 수 있다.\"",
+    "habit": "\"- 유충은 곡물, 과자 등을 가해하는 주요 해충이다. 유충의 먹이는 저장 곡물, 과자류, 건과, 건조된 곤충표본 등; 수수, 조, 기장, 벼로 알려져 있다. - 유충과 성충 모두 야간에 활동하기 때문에 근원지를 찾기 어렵기도 하다. 특히 유충은 구석에 숨어 지내기 때문에 쉽게 발견되지도 않는다.\"",
+    "harmfulness": "☆☆☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pyralis_farinalis_001.jpg/375px-Pyralis_farinalis_001.jpg",
+    "name": "밀가루줄명나방"
+  },
+  "Bug_31": {
+    "breed": "★☆☆",
+    "disease": "없음",
+    "eradication": "\"식품의 원료를 서늘한 곳에 보관함으로써 나방 유충의 활동과, 성충으로 우화하는 것을 막을 수 있다.  원료를 가능한 소량씩 구입하고 보관함으로써 큰 피해를 예방할 수 있다.  유충이 이미 발생된 원료와 식품은 다른 제품들과 분리하여 보관하고 폐기하는 것이 좋다.  식품의 분진이 쌓이기 쉬운 사업장 내 설비물 틈새와 환기구 등을 주기적으로 청소하여야 한다.  나방 성충이 발견되었다면 성충을 포획할 수 있는 페로몬트랩 등을 이용할 수 있다.\"",
+    "habit": "\" - 비스킷, 스낵과자 등의 가공식품, 곡류, 콩류, 건조과실 및 건조 채소의 중요 해충이다. - 성충은 밤에 활동하면서 산란하는데 알은 공중 투하 식으로 1알씩 떨어트린다. - 유충은 실을 토하며 곡립을 얽어매어 엷은 막을 형성한다. 월동시 막 속에서 노숙 유층으로 월동한다.\"",
+    "harmfulness": "☆☆☆",
+    "image": "https://search.pstatic.net/common/?src=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4907_000_3%2F20170527034723481_9NDKCBUVF.JPG%2Fib66_4785_i1.JPG%3Ftype%3Dm4500_4500_fst_forest&type=sc960_832",
+    "name": "줄알락명나방"
+  },
+  "Bug_32": {
+    "breed": "★★☆",
+    "disease": "없음",
+    "eradication": "\"식품의 원료를 서늘한 곳에 보관함으로써 나방 유충의 활동과, 성충으로 우화하는 것을 막을 수 있다.  원료를 가능한 소량씩 구입하고 보관함으로써 큰 피해를 예방할 수 있다.  유충이 이미 발생된 원료와 식품은 다른 제품들과 분리하여 보관하고 폐기하는 것이 좋다.  식품의 분진이 쌓이기 쉬운 사업장 내 설비물 틈새와 환기구 등을 주기적으로 청소하여야 한다.  나방 성충이 발견되었다면 성충을 포획할 수 있는 페로몬트랩 등을 이용할 수 있다.\"",
+    "habit": "\"- 식품에서 주로 생활을 하기에 살충제를 이용하여 방제하기에는 다소 어려우며, 유입을 차단하는 것이 가장 효과적이다. - 유충은 강한 턱과 이빨을 가져 식품의 포장재를 가해한 후 침입하기도 한다. - 성충은 빛을 선호하지 않는 음주광성의 습성을 가진다.\"",
+    "harmfulness": "☆☆☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Indianmeal_moth_2009.jpg/375px-Indianmeal_moth_2009.jpg",
+    "name": "화랑곡나방"
+  },
+  "Bug_33": {
+    "breed": "★★☆",
+    "disease": "일본뇌염, 웨스트나일뇌염",
+    "eradication": "\"<환경> - 모기장/방충망을 모든 창문에 설치하여 모기가 건물에 들어오지 못하도록 하십시오. - 건물 외부에 위치한 사용하지 않는 타이어, 빈 캔과 병, 플라스틱 통 등 물이 고일 수 있는 것들을 제거하여 모기의 번식처가 되지 않도록 하십시오. - 배수구 주변으로 물이 고여있지 않도록 주의하여 주시고, 낙엽과 쓰레기 등으로 막히지 않도록 하십시오. - 화병, 항아리와 같이 물이 항상 담겨있어야 하는 곳은 자주 물을 교체하시고, 모기 유충이 번식하는지 지속 모니터링 하십시오.  <사람> - 밝은 색 옷 입기 - 땀 바로 씻고 음주 피하기 - 살 빼기 - 선풍기 틀기 - 허브 오일 바르기\"",
+    "habit": "\"- 작은빨간집모기 유충은 미나리꽝, 논, 웅덩이 등 비교적 썩지 않는 맑은 물에 서식한다. - 주로 밤 시간(8∼10시)에 활동하며, 인체흡혈은 5% 내외이다. - 흔히 논, 축사에서 소, 돼지 등 큰 동물을 주로 흡혈한다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F022%2F2019%2F04%2F08%2F20190408514544_20190408201203070.jpg&type=sc960_832",
+    "name": "작은빨간집모기"
+  },
+  "Bug_34": {
+    "breed": "★★☆",
+    "disease": "말라리아",
+    "eradication": "\"<환경> - 모기장/방충망을 모든 창문에 설치하여 모기가 건물에 들어오지 못하도록 하십시오. - 건물 외부에 위치한 사용하지 않는 타이어, 빈 캔과 병, 플라스틱 통 등 물이 고일 수 있는 것들을 제거하여 모기의 번식처가 되지 않도록 하십시오. - 배수구 주변으로 물이 고여있지 않도록 주의하여 주시고, 낙엽과 쓰레기 등으로 막히지 않도록 하십시오. - 화병, 항아리와 같이 물이 항상 담겨있어야 하는 곳은 자주 물을 교체하시고, 모기 유충이 번식하는지 지속 모니터링 하십시오.  <사람> - 밝은 색 옷 입기 - 땀 바로 씻고 음주 피하기 - 살 빼기 - 선풍기 틀기 - 허브 오일 바르기\"",
+    "habit": "\"- 소, 말, 돼지 등 가축을 주로 흡혈하며, 소수는 사람을 흡혈한다. 1회 흡혈로 20 ~ 400개의 알을 산란한다. - 활동시간은 일몰 후 어두워지면서 일출 전 밝아지기 직전까지이며 밤 10시에서 2시까지가 가장 활발한 흡혈활동시간이다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://cdn.rentokil.com/content/global/images/desktop/main_aedes-mosquito.jpg",
+    "name": "중국얼룩날개모기"
+  },
+  "Bug_35": {
+    "breed": "★★☆",
+    "disease": "웨스트나일뇌염",
+    "eradication": "\"<환경> - 모기장/방충망을 모든 창문에 설치하여 모기가 건물에 들어오지 못하도록 하십시오. - 건물 외부에 위치한 사용하지 않는 타이어, 빈 캔과 병, 플라스틱 통 등 물이 고일 수 있는 것들을 제거하여 모기의 번식처가 되지 않도록 하십시오. - 배수구 주변으로 물이 고여있지 않도록 주의하여 주시고, 낙엽과 쓰레기 등으로 막히지 않도록 하십시오. - 화병, 항아리와 같이 물이 항상 담겨있어야 하는 곳은 자주 물을 교체하시고, 모기 유충이 번식하는지 지속 모니터링 하십시오.  <사람> - 밝은 색 옷 입기 - 땀 바로 씻고 음주 피하기 - 살 빼기 - 선풍기 틀기 - 허브 오일 바르기\"",
+    "habit": "건물의 실내, 실외에 작게 고인 물에서도 산란하여 발생될 수 있다. 작은빨간집모기가 변이된 것으로 겨울철 정화조, 집수정 등 실내에서 물이 고이는 장소에서도 쉽게 발생된다.",
+    "harmfulness": "★★☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Culex_Molestus.jpg/375px-Culex_Molestus.jpg",
+    "name": "지하집모기"
+  },
+  "Bug_36": {
+    "breed": "★★☆",
+    "disease": "사상충병",
+    "eradication": "\"<환경> - 모기장/방충망을 모든 창문에 설치하여 모기가 건물에 들어오지 못하도록 하십시오. - 건물 외부에 위치한 사용하지 않는 타이어, 빈 캔과 병, 플라스틱 통 등 물이 고일 수 있는 것들을 제거하여 모기의 번식처가 되지 않도록 하십시오. - 배수구 주변으로 물이 고여있지 않도록 주의하여 주시고, 낙엽과 쓰레기 등으로 막히지 않도록 하십시오. - 화병, 항아리와 같이 물이 항상 담겨있어야 하는 곳은 자주 물을 교체하시고, 모기 유충이 번식하는지 지속 모니터링 하십시오.  <사람> - 밝은 색 옷 입기 - 땀 바로 씻고 음주 피하기 - 살 빼기 - 선풍기 틀기 - 허브 오일 바르기\"",
+    "habit": "\"- 주로 해안가에 서식을 한다. - 유충은 주로 해변가의 고인물에서 서식을 하며, 담수에도 서식이 가능하다. - 야행성이며, 22~3시 사이에 가장 활발하다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTExMThfMTc3%2FMDAxNjM3MjQ1NDQ4Nzk2.7VVZPzXcc6KsPwU8HkT-KaiVotwWxjDKwx6wKr7Maxkg.LZtDBHWuywkneKaefCs6VsgNn_Xj8sbGvMou0yQTCdAg.JPEG.dlatkdahr%2Fimg01-01.jpg&type=sc960_832",
+    "name": "토고숲모기"
+  },
+  "Bug_37": {
+    "breed": "★★☆",
+    "disease": "승저증",
+    "eradication": "\"- 파리가 싫어하는 식물을 들여놓자. - 트랩을 만들자. \"",
+    "habit": "\"- 주요 서식처는 동물의 배설물이나, 죽은 사체이다. - 살아있는 동물의 상처나 궤양에 산란 시 승저증(구더기증)을 일으키기도 한다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Green_bottle_fly3.jpg/375px-Green_bottle_fly3.jpg",
+    "name": "구리금파리"
+  },
+  "Bug_38": {
+    "breed": "★★☆",
+    "disease": "없음",
+    "eradication": "\"- 손가락으로 쉽게 잡을 수 있지만 직접적으로 자극을 하면 빠르게 날아다니기 때문에 한 번에 잡는 것이 좋다. - 손으로 잡기 찝찝하면 분무기에 샴푸와 물을 섞어서 뿌리면 날개가 녹아버리기 때문에 손쉽게 잡을 수 있다. - 날아다니는 녀석은 전기 파리채 같은 도구로 잡지 않는 게 좋다. - 과도하게 많이 보인다면 살충제를 이용해 박멸하거나, 하수구 등에 펄펄 끓는 뜨거운 물을 주기적으로 부어 알과 유충까지 제거하는 것이 좋다. 특히 여름철에는 여러 곳이 습해지므로 서식지가 늘어나는 나방파리 등 해충에 대한 경각심이 필요하다.\"",
+    "habit": "\"- 주요 서식처는 자연에서는 오염된 하천이나, 연못 등 에서 서식하며, 실내에서는 배수관이나, 기타 물 사용장소에서 발생하며, 유기슬러지를 먹이원으로 한다. - 야행성으로 밤시간에 먹이 활동과 서식지 확산을 한다. - 비행 능력이 떨어져 1회 비행시 1-2m 정도 비행 후 장시간 벽에 앉아서 휴식을 취한다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://dbscthumb-phinf.pstatic.net/2765_000_170/20181217022702993_T9LYDS15L.jpg/268146.jpg?type=m250&wm=N",
+    "name": "나방파리"
+  },
+  "Bug_39": {
+    "breed": "★★★",
+    "disease": "없음",
+    "eradication": "\"- 파리가 싫어하는 식물을 들여놓자. - 트랩을 만들자. \"",
+    "habit": "\"- 과일이나, 썩은 과육, 상한 음식물 등에 무리 지어 모여들며, 해당 지역에 알을 낳아 번식한다. - 세대 주기가 짧아 환경이 좋을 경우 빠르게 대발생한다. - 약 3-5도의 알코올성분에 모여드는 경향이 있으며, 알코올성분을 이용해 병원성 균의 감염을 줄이기 위함이다.\"",
+    "harmfulness": 1,
+    "image": "https://dbscthumb-phinf.pstatic.net/2765_000_68/20181113192046364_A7UD969H2.jpg/267944.jpg?type=m250&wm=N",
+    "name": "노랑초파리"
+  },
+  "Bug_40": {
+    "breed": "★★★",
+    "disease": "없음",
+    "eradication": "\"- 파리가 싫어하는 식물을 들여놓자. - 트랩을 만들자. \"",
+    "habit": "\"- 주요 서식처는 썩은 고기와 배설물, 부패한 야채, 배수관의 슬러지, 더러운 걸래, 정화조, 축사 등 습하고 유기물이 많은 장소에서 발생한다. - 일부 종은 땅속에 묻어둔 관의 썩은 사체를 찾아 그 속에서 발생하기도 한다. - 일부 종은 꿀벌류에 기생하기도 한다.\"",
+    "harmfulness": "★☆☆",
+    "image": "https://w.namu.la/s/291868bc7cd7a13b7b10723861de6300133ef1b6169b12bd028c0c96b94b193a44ea8e7e33cb6f72506f70e7cf344272ced926e1db80a862edf64c254a3699c9b42d99ee41a4289286bd5bfe178c186b63b8dac89665ba92770f5ba3b44a03ef",
+    "name": "벼룩파리"
+  },
+  "Bug_41": {
+    "breed": "★★☆",
+    "disease": "승저증",
+    "eradication": "\"- 파리가 싫어하는 식물을 들여놓자. - 트랩을 만들자. \"",
+    "habit": "\"- 주요 서식처는 죽은 동물의 사체 또는 배설물이며, 일부 종은 나방류의 유충이나, 메뚜기류에 기생한다. - 생식기관이 발달하여, 알을 배 속에 품고 있으며, 부화한 유충을 낳는다. - 살아있는 동물의 상처나 궤양에 산란 시 승저증(구더기증)을 일으키기도 한다.\"",
+    "harmfulness": "★★☆",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sarcophaga_Bercaea2.jpg/375px-Sarcophaga_Bercaea2.jpg",
+    "name": "쉬파리"
   }
 }
