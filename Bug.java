@@ -3,11 +3,14 @@ package com.example.BugWiki;
 public class Bug {
     private String name;
     private String image;
-    private int breed; //번식력
+    private String breed; //유해성 (12.18 원래 int->string로 수정됨)
     private String habit; //습성
-    private int harmfulness; //유해성
+    private String harmfulness; //유해성 (12.18 원래 int->string로 수정됨)
     private String disease; //유해질병
     private String eradication; //퇴치법
+    // 12.17 추가됨
+    private String product_image; // 제품 이미지
+    private String product_url; // 제품 주소
 
     public Bug(){}
 
@@ -31,12 +34,12 @@ public class Bug {
     }
 
 
-
-    public int getBreed() {
+    // 12.18 수정됨 (int->String)
+    public String getBreed() {
         return breed;
     }
 
-    public void setBreed(int breed) {
+    public void setBreed(String breed) {
         this.breed = breed;
     }
 
@@ -48,11 +51,12 @@ public class Bug {
         this.habit = habit;
     }
 
-    public int getHarmfulness() {
+    // 12.18 수정됨 (int->String)
+    public String getHarmfulness() {
         return harmfulness;
     }
 
-    public void setHarmfulness(int harmfulness) {
+    public void setHarmfulness(String harmfulness) {
         this.harmfulness = harmfulness;
     }
 
@@ -71,4 +75,23 @@ public class Bug {
     public void setEradication(String eradication) {
         this.eradication = eradication;
     }
+    
+    // 12.17 추가됨
+    public String getProduct_image() {
+        return product_image;
+    }
+
+    public void setProduct_image(String product_image) {
+        this.product_image = product_image;
+    }
+
+
+    public String getProduct_url() {
+        return product_url;
+    }
+
+    public void setProduct_url(String product_url) {
+        this.product_url = product_url;
+    }
+
 }
