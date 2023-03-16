@@ -1,0 +1,142 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
+    id 'kotlin-android'
+    id 'com.google.gms.google-services'//추가됨
+
+
+    // 12.18 민정님-코틀린 추가
+    id 'kotlin-android-extensions'
+
+    // 유나 - 알람 추가
+    //id 'kotlin-parcelize'
+    id 'kotlin-kapt'
+    id 'realm-android'
+}
+
+android {
+    namespace 'com.example.BugWiki'
+    compileSdk 33 //수정됨
+    buildToolsVersion "30.0.3" //추가됨
+
+    defaultConfig {
+        applicationId "com.example.BugWiki"
+        minSdkVersion 21 //수정됨
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        // map - 새로 추가
+        minSdkVersion 23
+        targetSdkVersion 33
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+    buildFeatures {
+        mlModelBinding true
+        viewBinding true
+    }
+}
+
+
+dependencies {
+
+    //implementation 'com.android.support:appcompat-v7:28.0.0'
+    //implementation 'com.android.support.constraint:constraint-layout:2.0.4'
+    //implementation 'org.tensorflow:tensorflow-lite-support:0.1.0'
+    //implementation 'org.tensorflow:tensorflow-lite-metadata:0.1.0'
+    //testImplementation 'junit:junit:4.13.2'
+    //androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    //androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+
+
+    //카메라-갤러리-이미지 분류
+    implementation 'androidx.appcompat:appcompat:1.5.1'
+    implementation 'com.google.android.material:material:1.7.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'org.tensorflow:tensorflow-lite-support:0.1.0'
+    implementation 'org.tensorflow:tensorflow-lite-metadata:0.1.0'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.5.3'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.5.3'
+    implementation 'com.google.firebase:firebase-database-ktx:20.1.0'
+    implementation 'com.google.firebase:firebase-firestore:24.4.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.4'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
+
+
+    //민정님 main page 위해 추가
+    //noinspection GradleCompatible
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:2.0.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+
+    // map 추가
+    implementation 'androidx.core:core-ktx:1.7.0'
+    implementation 'com.google.android.gms:play-services-maps:17.0.0' //구글지도 //버전 수정됨
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    // map부분 새로 추가
+    // 코틀린 버전: 1.7.20
+//    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.7.20"
+    implementation 'com.google.android.gms:play-services-location:17.0.0' //위치정보 //버전 수정됨
+//    implementation 'com.google.maps.android:android-maps-utils:2.4.0'
+    // 카드뷰 사용 위해 새로 추가
+    //implementation 'com.makeramen:roundedimageview:2.3.0'
+    //implementation 'com.android.support:cardview-v7:28.0.0'
+
+    // 리사이클러 뷰 위해 새로 추가
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    // 이미지 로딩
+    implementation 'com.github.bumptech.glide:glide:4.10.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.10.0'
+
+    // 파이어베이스
+    implementation 'com.google.firebase:firebase-database:20.1.0'
+
+    // 12.18 민정님-코틀린 추가
+    def nav_version = "2.5.3"
+    implementation("androidx.navigation:navigation-fragment-ktx:$nav_version")
+    implementation("androidx.navigation:navigation-ui-ktx:$nav_version")
+
+    // 유나 - 알람 추가
+    implementation 'com.takisoft.datetimepicker:datetimepicker:1.0.2'
+
+    //0226 intro screen추가
+    implementation 'com.airbnb.android:lottie:4.2.2'
+
+    //0304 qna 게시판 위해 추가
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    //implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:2.0.4'
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    //implementation 'com.android.support:design:23.1.1'
+    //implementation 'com.google.android.material.material'
+    implementation 'com.google.android.material:material:1.8.0'
+
+    // 0312 새로 추가
+    implementation 'com.google.firebase:firebase-firestore:17.1.0'
+}
+
+
