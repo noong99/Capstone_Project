@@ -10,7 +10,7 @@
 ▶ activity_home.xml : main 페이지 layout<br>
 ▶ activity_maps.xml : 방역업체 페이지 layout<br>
 
-▶ AndroidManifest.xml : 페이지 만들 때마다 여기에 추가(indent-filter는 main 페이지에만<br>
+▶ AndroidManifest.xml : 페이지 만들 때마다 여기에 추가(indent-filter는 main 페이지에만)<br>
 
 (2022.12.10)<br>
 ▶ Bug.java, CustomAdapter.java, InfoActivity.java, activity_info.xml, list_item.xml: 정보 제공 관련<br>
