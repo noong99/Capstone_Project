@@ -50,7 +50,7 @@ BugWiki is an innovative app designed to identify pests and provide tailored sol
   - Provide detailed information and extermination methods.
 2. Q&A Page:
   - Assist users in identifying pests based on characteristics.
-  - Nearby Pest Control Services:
+3. Nearby Pest Control Services:
   - Display pest control service providers with addresses and contact details.
 
 ## References: Additional File Descriptions
